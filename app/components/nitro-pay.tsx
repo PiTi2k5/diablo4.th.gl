@@ -63,6 +63,7 @@ export default function NitroPay() {
         src="https://s.nitropay.com/ads-1487.js"
         async
         data-cfasync="false"
+        data-log-level="silent"
         onLoad={handleLoad}
         onError={() => setShowFallback(true)}
       />
