@@ -1,3 +1,7 @@
+<div align="left">
+   ReadMe in <a href="README.fr.md"">French (Français)</a>
+</div>
+
 <div align="center">
   <a href="https://github.com/lmachens/diablo4.th.gl">
     <img src="assets/store/app-icon.png" alt="Logo" >
@@ -16,7 +20,11 @@
     <a href="https://discord.com/invite/NTZu8Px">Discord</a>
   </p>
 </div>
-<div align="center">Available in:<br />  🇺🇸 | 🇫🇷 | 🇩🇪 | 🇪🇸 | 🇧🇷 | 🇷🇺</div
+
+<div align="center">
+    Available in:<br />  🇺🇸 | 🇫🇷 | 🇩🇪 | 🇪🇸 | 🇧🇷 | 🇷🇺
+</div
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
