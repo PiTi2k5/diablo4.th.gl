@@ -1,3 +1,6 @@
+| <h3 align="center">Bien que ce ReadME soit traduit en français pour votre convenance, notre équipe ne peut fournir un support complet qu'en anglais. Si vous avez des questions ou avez besoin d'aide, veuillez les poser en anglais dans notre canal de support sur <a href="https://discord.com/invite/NTZu8Px">Discord</a>.<br /><br /> Merci de votre compréhension.</h3> |
+| ------------------------------------------------------- |
+
 <div align="left">
   ReadMe en <a href="README.md">Anglais (English)</a>
 </div>
@@ -7,7 +10,7 @@
     <img src="assets/store/app-icon.png" alt="Logo" >
   </a>
 
-<h3 align="center">Diablo 4 Map</h3>
+<h1 align="center">Diablo 4 Map</h1>
 
   <p align="center">
     Carte Interactive Diablo 4
@@ -67,6 +70,8 @@ Rejoignez le [Discord](https://discord.com/invite/NTZu8Px) pour obtenir les dern
 - Mode superposition (Overlay) avec prise en charge des raccourcis clavier (pas besoin d'utiliser ALT+TAB pour accéder à la carte)
 
 ## Contribuer
+
+**Pour votre convenance Veuillez communiquer en anglais**
 
 Consultez le canal [suggestions-issues](https://discord.com/invite/NTZu8Px) sur Discord pour une liste complète des fonctionnalités proposées (et des problèmes connus).
 
