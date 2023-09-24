@@ -2,6 +2,11 @@
   ReadMe en <a href="README.md">Anglais (English)</a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/lmachens/diablo4.th.gl">
+    <img src="assets/store/app-icon.png" alt="Logo" >
+  </a>
+
 <h3 align="center">Diablo 4 Map</h3>
 
   <p align="center">
