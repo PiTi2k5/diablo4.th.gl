@@ -1,3 +1,7 @@
+<div align="left">
+   Readme in <a href="README.fr.md"">French (Français)</a>
+</div>
+
 <div align="center">
   <a href="https://github.com/lmachens/diablo4.th.gl">
     <img src="assets/store/app-icon.png" alt="Logo" >
