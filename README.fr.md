@@ -1,8 +1,8 @@
 | <h3 align="center">Bien que ce ReadME soit traduit en français pour votre convenance, notre équipe ne peut fournir un support complet qu'en anglais. Si vous avez des questions ou avez besoin d'aide, veuillez les poser en anglais dans notre canal de support sur <a href="https://discord.com/invite/NTZu8Px">Discord</a>.<br /><br /> Merci de votre compréhension.</h3> |
-| ------------------------------------------------------- |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <div align="left">
-  ReadMe en <a href="README.md">Anglais (English)</a>
+  Readme en <a href="README.md">Anglais (English)</a>
 </div>
 
 <div align="center">
