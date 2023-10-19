@@ -125,10 +125,12 @@ export default function Nodes() {
             ("attribute" in node &&
               node.attribute?.toLowerCase().includes(search)) ||
             ("aspectId" in node &&
+              node.aspectId &&
               dict.generated.aspects[node.aspectId]?.name
                 .toLowerCase()
                 .includes(search)) ||
             ("className" in node &&
+              node.className &&
               node.className.toLowerCase().includes(search))
           );
         }
