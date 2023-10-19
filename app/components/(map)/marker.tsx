@@ -81,7 +81,7 @@ const Marker = memo(function Marker({
         tooltipContent += `<p class="border-t border-t-gray-700 mt-2 pt-2 text-base font-bold">${
           dict.generated.generic.aspect.name
         } ${
-          dict.generated.aspects[node.aspectId].name
+          node.aspectId && dict.generated.aspects[node.aspectId].name
         }</p><p class="text-orange-500 text-lg">${node.className}</p>`;
       }
 
