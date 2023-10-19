@@ -5,9 +5,9 @@ export const campaignQuests = [
     y: 120.57983,
   },
   {
-    id: "campaignQuests:CMP_Frac_Malnok@-93.62931,140.48901",
-    x: -93.62931,
-    y: 140.48901,
+    id: "campaignQuests:CMP_Frac_Malnok@-93.24213,141.74701",
+    x: -93.24213,
+    y: 141.74701,
   },
   {
     id: "campaignQuests:CMP_Frac_Nostrava@-97.40858,107.95826",

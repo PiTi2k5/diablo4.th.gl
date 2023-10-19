@@ -432,10 +432,10 @@ export const wildlifeMonsters = [
     y: 68.60606,
   },
   {
-    id: "wildlifeMonsters:Actor_wildlife_bear_QST_Scos_Moireach_BearForm@-138.02233,68.7837",
+    id: "wildlifeMonsters:Actor_wildlife_bear_QST_Scos_Moireach_BearForm@-137.87756,68.77367",
     termId: "Actor_wildlife_bear_QST_Scos_Moireach_BearForm",
-    x: -138.02233,
-    y: 68.7837,
+    x: -137.87756,
+    y: 68.77367,
   },
   {
     id: "wildlifeMonsters:Actor_wildlife_woodwraith_frac_unique_ACD_RareSpawn@-137.81818,68.60606",

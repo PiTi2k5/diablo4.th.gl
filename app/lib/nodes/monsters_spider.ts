@@ -258,24 +258,6 @@ export const spiderMonsters = [
     y: 68.56767,
   },
   {
-    id: "spiderMonsters:Actor_spider_adult@-137.87247,68.66929",
-    termId: "Actor_spider_adult",
-    x: -137.87247,
-    y: 68.66929,
-  },
-  {
-    id: "spiderMonsters:Actor_spider_mini@-137.8158,68.70145",
-    termId: "Actor_spider_mini",
-    x: -137.8158,
-    y: 68.70145,
-  },
-  {
-    id: "spiderMonsters:Actor_spider_mini@-137.8961,68.59347",
-    termId: "Actor_spider_mini",
-    x: -137.8961,
-    y: 68.59347,
-  },
-  {
     id: "spiderMonsters:Actor_spider_mini_cold@-138.26401,68.65113",
     termId: "Actor_spider_mini_cold",
     x: -138.26401,

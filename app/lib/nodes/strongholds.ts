@@ -5,9 +5,9 @@ export const strongholds = [
     y: 120.57983,
   },
   {
-    id: "strongholds:Frac_Malnok@-93.62931,140.48901",
-    x: -93.62931,
-    y: 140.48901,
+    id: "strongholds:Frac_Malnok@-93.24213,141.74701",
+    x: -93.24213,
+    y: 141.74701,
   },
   {
     id: "strongholds:Frac_Nostrava@-97.40858,107.95826",

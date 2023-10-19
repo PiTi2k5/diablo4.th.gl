@@ -100,9 +100,9 @@ export const cellars = [
     y: 109.8682,
   },
   {
-    id: "cellars:OWC_Frac_TundraSouth_01@-75.17507,125.79458",
-    x: -75.17507,
-    y: 125.79458,
+    id: "cellars:OWC_Frac_TundraSouth_01@-75.18668,125.79974",
+    x: -75.18668,
+    y: 125.79974,
   },
   {
     id: "cellars:OWC_Frac_TundraNorth_03@-98.25208,144.67811",
@@ -460,6 +460,11 @@ export const cellars = [
     y: 53.92036,
   },
   {
+    id: "cellars:Boss_WT3_Varshan@-118.16301,143.7963",
+    x: -118.16301,
+    y: 143.7963,
+  },
+  {
     id: "cellars:OWC_Hawe_Crossway_03@-152.0266,91.84082",
     x: -152.0266,
     y: 91.84082,
@@ -780,6 +785,11 @@ export const cellars = [
     y: 113.36305,
   },
   {
+    id: "cellars:QST_S02_Main_01_Step_Cellar@-69.86458,63.98974",
+    x: -69.86458,
+    y: 63.98974,
+  },
+  {
     id: "cellars:S01_MDGN_Hawe_B@-148.91263,141.04968",
     x: -148.91263,
     y: 141.04968,
@@ -788,5 +798,35 @@ export const cellars = [
     id: "cellars:S01_MDGN_Step_B@-102.74936,79.3753",
     x: -102.74936,
     y: 79.3753,
+  },
+  {
+    id: "cellars:QST_S02_Main_07_Step_Cellar@-69.81842,64.0359",
+    x: -69.81842,
+    y: 64.0359,
+  },
+  {
+    id: "cellars:QST_S02_Main_02_Cellar_SafeHouse@-69.81842,64.0359",
+    x: -69.81842,
+    y: 64.0359,
+  },
+  {
+    id: "cellars:QST_S02_Main_05_Cellar_SafeHouse@-69.81842,64.0359",
+    x: -69.81842,
+    y: 64.0359,
+  },
+  {
+    id: "cellars:QST_S02_Main_12_Cellar_SafeHouse@-69.81842,64.0359",
+    x: -69.81842,
+    y: 64.0359,
+  },
+  {
+    id: "cellars:QST_S02_Main_03_Step_Cellar@-69.81842,64.0359",
+    x: -69.81842,
+    y: 64.0359,
+  },
+  {
+    id: "cellars:QST_S02_Main_09_Step_Cellar@-69.81842,64.0359",
+    x: -69.81842,
+    y: 64.0359,
   },
 ];

@@ -276,7 +276,7 @@
       "name": "Восточный проход",
       "description": "к ловкости +2"
     },
-    "altars:Frac_Taiga_S_Prologue_Woods@-107.51272,105.63763": {
+    "altars:Frac_Taiga_S_Prologue_Woods@-107.48478,105.58286": {
       "name": "Тайга Ледяного Воя",
       "description": "к силе +2"
     },
@@ -726,31 +726,31 @@
       "name": "Уничтожьте скелетов на Непокорных откосах",
       "description": "Леса Санктуария наполняются гулом бесчисленных мелких существ. Сократите их количество, чтобы Древо могло передохнуть."
     },
-    "events:Bounty_Harvest_Tier2_Step_Central@-87.25674,82.58935": {
+    "events:Bounty_Harvest_Tier2_Step_Central@-78.72625,75.8856": {
       "name": "Сбор: утесы Каргаи",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Step_Coast@-93.05912,36.13587": {
+    "events:Bounty_Harvest_Tier2_Step_Coast@-94.33197,41.53392": {
       "name": "Сбор: Израненное побережье",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Step_Eastern@-97.37943,93.58107": {
+    "events:Bounty_Harvest_Tier2_Step_Eastern@-103.9869,88.58837": {
       "name": "Сбор: Проклятые пустоши",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Step_Grasslands@-54.6236,68.81502": {
+    "events:Bounty_Harvest_Tier2_Step_Grasslands@-66.65321,66.91558": {
       "name": "Сбор: Котамские угодья",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Step_South@-110.24715,77.6441": {
+    "events:Bounty_Harvest_Tier2_Step_South@-106.03909,68.55379": {
       "name": "Сбор: Непокорные откосы",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Step_Volcano@-88.87259,96.91478": {
+    "events:Bounty_Harvest_Tier2_Step_Volcano@-81.03577,92.11572": {
       "name": "Сбор: кряж Чамбатар",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Step_WesternFlats@-80.85308,64.77766": {
+    "events:Bounty_Harvest_Tier2_Step_WesternFlats@-79.05765,59.0315": {
       "name": "Сбор: равнина Диндаи",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
@@ -866,7 +866,7 @@
       "name": "Тропа слепых",
       "description": "Эхо грехов прошлого приковывает к древу многие заблудшие души. Если вернуться на место, где был совершен проступок, и очистить его от зла, у них появится шанс на искупление."
     },
-    "events:Bounty_Dungeon_Tier3_Step_Central_OnyxHold@-81.30402,71.90502": {
+    "events:Bounty_Dungeon_Tier3_Step_Central_OnyxHold@-81.03201,72.10432": {
       "name": "Ониксовая крепость",
       "description": "Эхо грехов прошлого приковывает к древу многие заблудшие души. Если вернуться на место, где был совершен проступок, и очистить его от зла, у них появится шанс на искупление."
     },
@@ -918,7 +918,7 @@
       "name": "Плач Древних",
       "description": "Эхо грехов прошлого приковывает к древу многие заблудшие души. Если вернуться на место, где был совершен проступок, и очистить его от зла, у них появится шанс на искупление."
     },
-    "events:Bounty_Dungeon_Tier3_Step_South_BloodsoakedCrag@-95.49018,73.14825": {
+    "events:Bounty_Dungeon_Tier3_Step_South_BloodsoakedCrag@-95.07724,72.81245": {
       "name": "Окровавленный утес",
       "description": "Эхо грехов прошлого приковывает к древу многие заблудшие души. Если вернуться на место, где был совершен проступок, и очистить его от зла, у них появится шанс на искупление."
     },
@@ -1050,6 +1050,26 @@
       "name": "Монашеский подвал",
       "description": "Эхо грехов прошлого приковывает к древу многие заблудшие души. Если вернуться на место, где был совершен проступок, и очистить его от зла, у них появится шанс на искупление."
     },
+    "events:Bounty_S2_Vampzone_Tier2_Step_Grassland_BloodSeeker@-64.39203,67.11795": {
+      "name": "Slay Kotama Grassland Blood Seekers",
+      "description": "There are champions among the Vampires that wield undeserved power. Lure them out at a Sanguine Altar and bring their heads to the Tree."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Step_Grassland_Rescue@-64.71262,68.74525": {
+      "name": "Rescue Kotama Grassland Villagers",
+      "description": "The Vampires' dark rituals are fueled by vast quantities of fresh blood. Find and rescue those who would be consumed."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Step_Grassland_Structures@-64.71584,68.7456": {
+      "name": "Raze Kotama Grassland Structures",
+      "description": "The Vampire seek to create a permanent presence in these lands. Destroy any grotesque fixtures they have erected."
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Step_Grassland_VampireElites@-63.25707,68.225": {
+      "name": "Cull Kotama Grassland Vampires",
+      "description": "The Vampires' reckless use of blood magicks is tainting the Tree's soil. Exterminate their leadership and drive them from these lands. "
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Step_Grassland_VampireSwarm@-63.2703,68.22536": {
+      "name": "Cull Kotama Grassland Ghouls",
+      "description": "The Vampires' Ghoul swarms threaten to consume every living being left in these lands. Obliterate their hordes before it's too late."
+    },
     "events:Bounty_Assassinate_Tier1_Frac_BanditMelee_Refactor@-105.06811,113.31639": {
       "name": "Главарь таежных бандитов",
       "description": "За нарушение договора с Шепчущим древом всегда следует расплата."
@@ -1074,7 +1094,7 @@
       "name": "Старейшина клана Льда",
       "description": "За нарушение договора с Шепчущим древом всегда следует расплата."
     },
-    "events:Bounty_Assassinate_Tier1_Frac_Skeleton2H_Refactor@-92.1343,138.03937": {
+    "events:Bounty_Assassinate_Tier1_Frac_Skeleton2H_Refactor@-92.11755,137.80293": {
       "name": "Инеистый шаркун",
       "description": "За нарушение договора с Шепчущим древом всегда следует расплата."
     },
@@ -1134,7 +1154,7 @@
       "name": "Сбор: Штормовая долина",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Frac_Glacier@-88.19018,156.96254": {
+    "events:Bounty_Harvest_Tier2_Frac_Glacier@-89.34389,149.40085": {
       "name": "Сбор: Небесный трон",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
@@ -1150,11 +1170,11 @@
       "name": "Сбор: Бледная роща",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Frac_TundraN@-98.6574,140.63664": {
+    "events:Bounty_Harvest_Tier2_Frac_TundraN@-94.0453,131.79171": {
       "name": "Сбор: Ледяной простор",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Frac_TundraS@-76.17018,127.27772": {
+    "events:Bounty_Harvest_Tier2_Frac_TundraS@-84.09199,119.13411": {
       "name": "Сбор: Сарковский перевал",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
@@ -1222,7 +1242,7 @@
       "name": "Событие в Ледяном просторе",
       "description": "Когда-то эта энергетическая линия питала Шепчущее древо, но теперь ее захватили силы тьмы."
     },
-    "events:Bounty_LE_Tier1_Frac_TundraN_LocC@-98.2773,149.71976": {
+    "events:Bounty_LE_Tier1_Frac_TundraN_LocC@-98.27745,149.71918": {
       "name": "Событие в Промерзшей глуши",
       "description": "Когда-то эта энергетическая линия питала Шепчущее древо, но теперь ее захватили силы тьмы."
     },
@@ -1458,7 +1478,7 @@
       "name": "Сбор: Топь Терзаний",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Hawe_Coast@-154.97781,132.18576": {
+    "events:Bounty_Harvest_Tier2_Hawe_Coast@-153.93989,138.97145": {
       "name": "Сбор: Покинутый берег",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
@@ -1466,15 +1486,15 @@
       "name": "Сбор: плато Умир",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Hawe_Delta@-143.11548,151.35017": {
+    "events:Bounty_Harvest_Tier2_Hawe_Delta@-136.46425,145.16837": {
       "name": "Сбор: Гнилая дельта",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Hawe_Fens@-157.55805,113.06643": {
+    "events:Bounty_Harvest_Tier2_Hawe_Fens@-158.3845,121.48486": {
       "name": "Сбор: Ядовитые болота",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Hawe_Marsh@-128.72451,127.4491": {
+    "events:Bounty_Harvest_Tier2_Hawe_Marsh@-140.789,128.21119": {
       "name": "Сбор: Чумное болото",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
@@ -1482,7 +1502,7 @@
       "name": "Сбор: Мрачные предгорья",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Hawe_Wetland@-136.85136,110.72821": {
+    "events:Bounty_Harvest_Tier2_Hawe_Wetland@-138.43876,116.58336": {
       "name": "Сбор: Смрадные топи",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
@@ -1934,6 +1954,26 @@
       "name": "Заболоченное логово",
       "description": "Эхо грехов прошлого приковывает к древу многие заблудшие души. Если вернуться на место, где был совершен проступок, и очистить его от зла, у них появится шанс на искупление."
     },
+    "events:Bounty_S2_Vampzone_Tier2_Hawe_Coast_BloodSeeker@-151.21574,141.40863": {
+      "name": "Slay Forsaken Coast Blood Seekers",
+      "description": "There are champions among the Vampires that wield undeserved power. Lure them out at a Sanguine Altar and bring their heads to the Tree."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Hawe_Coast_Rescue@-151.21621,139.08029": {
+      "name": "Rescue Forsaken Coast Villagers",
+      "description": "The Vampires' dark rituals are fueled by vast quantities of fresh blood. Find and rescue those who would be consumed."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Hawe_Coast_Structures@-151.21621,139.08029": {
+      "name": "Raze Forsaken Coast Structures",
+      "description": "The Vampire seek to create a permanent presence in these lands. Destroy any grotesque fixtures they have erected."
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Hawe_Coast_VampireElites@-149.80589,140.28237": {
+      "name": "Cull Forsaken Coast Vampires",
+      "description": "The Vampires' reckless use of blood magicks is tainting the Tree's soil. Exterminate their leadership and drive them from these lands. "
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Hawe_Coast_VampireSwarm@-149.80589,140.28237": {
+      "name": "Cull Forsaken Coast Ghouls",
+      "description": "The Vampires' Ghoul swarms threaten to consume every living being left in these lands. Obliterate their hordes before it's too late."
+    },
     "events:Bounty_WE_Tier3_Kehj_Boss@-114.93128,74.82564": {
       "name": "Босс вне подземелья",
       "description": "В этой местности видели Ашаву Чумную, Авариса Проклятого Златолюбца и Бродячую смерть."
@@ -1946,7 +1986,7 @@
       "name": "Событие легиона",
       "description": "Неподалеку собираются силы зла. Истребите врагов, пока они не подготовились к наступлению."
     },
-    "events:Bounty_LE_Tier1_Kehj_PvP_CompleteAny1@-146.94664,68.07851": {
+    "events:Bounty_LE_Tier1_Kehj_PvP_CompleteAny1@-148.04037,65.12684": {
       "name": "PvP: события на Полях Ненависти",
       "description": "Когда-то эта энергетическая линия питала Шепчущее древо, но теперь ее захватили силы тьмы."
     },
@@ -1958,7 +1998,7 @@
       "name": "PvP Бушующее поганище",
       "description": "За нарушение договора с Шепчущим древом всегда следует расплата."
     },
-    "events:Bounty_Harvest_Tier2_Kehj_HighDesert@-120.3736,44.32039": {
+    "events:Bounty_Harvest_Tier2_Kehj_HighDesert@-113.93239,45.78261": {
       "name": "Сбор: Янтарные пески",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
@@ -1966,11 +2006,11 @@
       "name": "Сбор: Южный простор",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Kehj_Oasis@-119.41708,32.19658": {
+    "events:Bounty_Harvest_Tier2_Kehj_Oasis@-126.80617,33.39444": {
       "name": "Сбор: Изорванное побережье",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Kehj_Ridge@-125.56967,78.49679": {
+    "events:Bounty_Harvest_Tier2_Kehj_Ridge@-129.75244,72.47804": {
       "name": "Сбор: Жесткие пески",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
@@ -2082,6 +2122,10 @@
       "name": "Разграбленные залы",
       "description": "Эхо грехов прошлого приковывает к древу многие заблудшие души. Если вернуться на место, где был совершен проступок, и очистить его от зла, у них появится шанс на искупление."
     },
+    "events:Bounty_Dungeon_Tier3_Kehj_AltarOfRuin_SepulcherOfTheForsworn@-106.85585,45.08012": {
+      "name": "Sepulcher of the Forsworn",
+      "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
+    },
     "events:Bounty_Dungeon_Tier3_Kehj_LowDesert_Conclave@-138.23703,43.46635": {
       "name": "Конклав",
       "description": "Эхо грехов прошлого приковывает к древу многие заблудшие души. Если вернуться на место, где был совершен проступок, и очистить его от зла, у них появится шанс на искупление."
@@ -2113,6 +2157,10 @@
     "events:Bounty_Dungeon_Tier3_Kehj_Oasis_HereticsAsylum@-132.85894,19.00346": {
       "name": "Приют еретика",
       "description": "Эхо грехов прошлого приковывает к древу многие заблудшие души. Если вернуться на место, где был совершен проступок, и очистить его от зла, у них появится шанс на искупление."
+    },
+    "events:Bounty_Dungeon_Tier3_Step_Camp03_CrumblingHekma@-146.21747,47.86839": {
+      "name": "Crumbling Hekma",
+      "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_Dungeon_Tier3_Kehj_Ridge_AbandonedMineworks@-138.00625,67.88752": {
       "name": "Заброшенный рудник",
@@ -2410,11 +2458,11 @@
       "name": "Убейте бандитов на Туманных пустошах",
       "description": "Леса Санктуария наполняются гулом бесчисленных мелких существ. Сократите их количество, чтобы Древо могло передохнуть."
     },
-    "events:Bounty_Harvest_Tier2_Scos_Coast@-38.60791,88.70717": {
+    "events:Bounty_Harvest_Tier2_Scos_Coast@-30.48503,95.40026": {
       "name": "Сбор: Северный берег",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Scos_DeepForest@-54.02356,71.64203": {
+    "events:Bounty_Harvest_Tier2_Scos_DeepForest@-52.12004,80.60146": {
       "name": "Сбор: Глухолесье",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
@@ -2426,7 +2474,7 @@
       "name": "Сбор: Высоколесье",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Scos_Highlands@-69.7348,136.42331": {
+    "events:Bounty_Harvest_Tier2_Scos_Highlands@-64.81337,133.34243": {
       "name": "Сбор: Нагорные дебри",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
@@ -2438,11 +2486,11 @@
       "name": "Сбор: Берег",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Scos_Lowlands@-55.43732,94.99923": {
+    "events:Bounty_Harvest_Tier2_Scos_Lowlands@-63.63666,97.52737": {
       "name": "Сбор: Западные низины",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
-    "events:Bounty_Harvest_Tier2_Scos_Moors@-52.80438,142.32511": {
+    "events:Bounty_Harvest_Tier2_Scos_Moors@-55.64041,136.61104": {
       "name": "Сбор: Туманные пустоши",
       "description": "Шепчущее древо голодно и требует жертву. Соберите кровяные частицы с убитых врагов и поднесите их на алтарь жатвы."
     },
@@ -2777,6 +2825,46 @@
     "events:Bounty_Ritual_Tier2_Scos_Highlands@-63.97025,131.12605": {
       "name": "Ритуал: Нагорные дебри",
       "description": "Влияние Шепчущего древа на эту область ослабло. Несколькими ритуалами можно вернуть эту землю под его надзор."
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Scos_Moors_VampireElites@-54.23242,135.75836": {
+      "name": "Cull Shrouded Moors Vampires",
+      "description": "The Vampires' reckless use of blood magicks is tainting the Tree's soil. Exterminate their leadership and drive them from these lands. "
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Scos_Moors_VampireSwarm@-54.23242,135.75836": {
+      "name": "Cull Shrouded Moors Ghouls",
+      "description": "The Vampires' Ghoul swarms threaten to consume every living being left in these lands. Obliterate their hordes before it's too late."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Moors_Rescue@-54.33306,133.8639": {
+      "name": "Rescue Shrouded Moors Villagers",
+      "description": "The Vampires' dark rituals are fueled by vast quantities of fresh blood. Find and rescue those who would be consumed."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Moors_Structures@-54.33306,133.8639": {
+      "name": "Raze Shrouded Moors Structures",
+      "description": "The Vampire seek to create a permanent presence in these lands. Destroy any grotesque fixtures they have erected."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Moors_BloodSeeker@-55.76282,134.78055": {
+      "name": "Slay Shrouded Moors Blood Seekers",
+      "description": "There are champions among the Vampires that wield undeserved power. Lure them out at a Sanguine Altar and bring their heads to the Tree."
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Scos_Highlands_VampireElites@-65.606,139.89285": {
+      "name": "Cull Highland Wilds Vampires",
+      "description": "The Vampires' reckless use of blood magicks is tainting the Tree's soil. Exterminate their leadership and drive them from these lands. "
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Scos_Highlands_VampireSwarm@-65.606,139.89285": {
+      "name": "Cull Highland Wilds Ghouls",
+      "description": "The Vampires' Ghoul swarms threaten to consume every living being left in these lands. Obliterate their hordes before it's too late."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Highlands_Rescue@-65.30827,138.44156": {
+      "name": "Rescue Highland Wilds Villagers",
+      "description": "The Vampires' dark rituals are fueled by vast quantities of fresh blood. Find and rescue those who would be consumed."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Highlands_Structures@-65.30827,138.44156": {
+      "name": "Raze Highland Wilds Structures",
+      "description": "The Vampire seek to create a permanent presence in these lands. Destroy any grotesque fixtures they have erected."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Highlands_BloodSeeker@-66.61892,138.90063": {
+      "name": "Slay Highland Wilds Blood Seekers",
+      "description": "There are champions among the Vampires that wield undeserved power. Lure them out at a Sanguine Altar and bring their heads to the Tree."
     },
     "events:Bounty_Assassinate_Tier1_Kehj_DemonSuccubus_Breadcrumb@-129.71187,43.53802": {
       "name": "Адский осквернитель",
@@ -3564,7 +3652,7 @@
     "cellars:OWC_Frac_TundraSouth_03@-78.4814,109.8682": {
       "name": "Обледеневшая шахта"
     },
-    "cellars:OWC_Frac_TundraSouth_01@-75.17507,125.79458": {
+    "cellars:OWC_Frac_TundraSouth_01@-75.18668,125.79974": {
       "name": "Укрытие афериста"
     },
     "cellars:OWC_Frac_TundraNorth_03@-98.25208,144.67811": {
@@ -4515,7 +4603,7 @@
       "name": "Кор Драган",
       "description": "Оплот Кающихся Рыцарей, ныне оскверненный и заброшенный"
     },
-    "campaignQuests:CMP_Frac_Malnok@-93.62931,140.48901": {
+    "campaignQuests:CMP_Frac_Malnok@-93.24213,141.74701": {
       "name": "Малнок",
       "description": "Поселение во льдах, погребенное под снегом бесконечной вьюгой"
     },
@@ -5353,7 +5441,7 @@
       "name": "Смертельная сделка",
       "description": "Неудачливый торговец не может выполнить заказ."
     },
-    "sideQuests:QST_Kehj_GeaKul_FetchMinor_07@-143.68847,28.83114": {
+    "sideQuests:QST_Kehj_GeaKul_FetchMinor_07@-147.95872,29.181": {
       "name": "Бесконечные богатства",
       "description": "Алчный гоблин обронил дневник некоего Остафа. Кажется, в Геа-Куль был торговец с таким именем. Надо вернуться к нему. "
     },
@@ -5749,7 +5837,7 @@
       "name": "Сердце королевы",
       "description": "Паучья королева больше никому не угрожает. "
     },
-    "sideQuests:QST_Step_KedBardu_FetchMinor_01@-69.91717,64.22267": {
+    "sideQuests:QST_Step_KedBardu_FetchMinor_01@-69.97893,64.43427": {
       "name": "Голод воров",
       "description": "Бандиты грабят караваны с продовольствием для Кед Барду. В городе начался голод."
     },
@@ -6840,7 +6928,7 @@
     "healers:Scos_Coast@-33.21329,88.26384": {
       "name": "[fs]Киэрин"
     },
-    "healers:Scos_Highlands@-62.06204,129.22428": {
+    "healers:Scos_Highlands@-62.06583,129.22521": {
       "name": "[ms]Аидрейг"
     },
     "healers:Scos_Hills@-41.65072,106.06359": {

@@ -414,10 +414,10 @@ export const altars = [
     y: 120.50412,
   },
   {
-    id: "altars:Frac_Taiga_S_Prologue_Woods@-107.51272,105.63763",
+    id: "altars:Frac_Taiga_S_Prologue_Woods@-107.48478,105.58286",
     attribute: "Strength",
-    x: -107.51272,
-    y: 105.63763,
+    x: -107.48478,
+    y: 105.58286,
   },
   {
     id: "altars:Step_Basin_West@-89.93287,80.19031",

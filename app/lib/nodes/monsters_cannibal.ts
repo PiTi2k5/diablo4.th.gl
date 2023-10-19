@@ -216,6 +216,18 @@ export const cannibalMonsters = [
     y: 68.60606,
   },
   {
+    id: "cannibalMonsters:Actor_cannibal_brute_phys@-139.19528,69.35555",
+    termId: "Actor_cannibal_brute_phys",
+    x: -139.19528,
+    y: 69.35555,
+  },
+  {
+    id: "cannibalMonsters:Actor_cannibal_dualwield_phys@-139.20697,69.24505",
+    termId: "Actor_cannibal_dualwield_phys",
+    x: -139.20697,
+    y: 69.24505,
+  },
+  {
     id: "cannibalMonsters:Actor_cannibal_twohand_cold@-99.99824,63.34633",
     termId: "Actor_cannibal_twohand_cold",
     x: -99.99824,

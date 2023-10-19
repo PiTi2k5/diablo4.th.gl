@@ -5030,6 +5030,796 @@ export const additionalMonsters = [
     y: 106.80303,
   },
   {
+    id: "additionalMonsters:additionalMonsters@-124.4798,110.22661",
+    x: -124.4798,
+    y: 110.22661,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-125.81938,111.46722",
+    x: -125.81938,
+    y: 111.46722,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-124.99583,113.59756",
+    x: -124.99583,
+    y: 113.59756,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-127.68233,112.46435",
+    x: -127.68233,
+    y: 112.46435,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-128.72136,113.95128",
+    x: -128.72136,
+    y: 113.95128,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-128.64085,113.90656",
+    x: -128.64085,
+    y: 113.90656,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-128.92434,112.94875",
+    x: -128.92434,
+    y: 112.94875,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-128.96012,112.8593",
+    x: -128.96012,
+    y: 112.8593,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-129.40298,112.12355",
+    x: -129.40298,
+    y: 112.12355,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-129.35331,112.02629",
+    x: -129.35331,
+    y: 112.02629,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-129.41593,111.9279",
+    x: -129.41593,
+    y: 111.9279,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-130.28596,112.81268",
+    x: -130.28596,
+    y: 112.81268,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-130.20546,112.98263",
+    x: -130.20546,
+    y: 112.98263,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-130.52999,111.56172",
+    x: -130.52999,
+    y: 111.56172,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-130.34214,111.4991",
+    x: -130.34214,
+    y: 111.4991,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-129.97539,110.81033",
+    x: -129.97539,
+    y: 110.81033,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-130.04695,110.864",
+    x: -130.04695,
+    y: 110.864,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-129.24468,110.66098",
+    x: -129.24468,
+    y: 110.66098,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-129.29835,110.75043",
+    x: -129.29835,
+    y: 110.75043,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-129.21481,109.71842",
+    x: -129.21481,
+    y: 109.71842,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-130.91645,112.05867",
+    x: -130.91645,
+    y: 112.05867,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-131.0502,111.95047",
+    x: -131.0502,
+    y: 111.95047,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-131.04609,113.83149",
+    x: -131.04609,
+    y: 113.83149,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-129.27957,114.79717",
+    x: -129.27957,
+    y: 114.79717,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-129.32429,114.73455",
+    x: -129.32429,
+    y: 114.73455,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-128.01194,115.53918",
+    x: -128.01194,
+    y: 115.53918,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-129.42101,116.44282",
+    x: -129.42101,
+    y: 116.44282,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-129.18844,116.44282",
+    x: -129.18844,
+    y: 116.44282,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-130.04219,115.67629",
+    x: -130.04219,
+    y: 115.67629,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-130.08692,115.56001",
+    x: -130.08692,
+    y: 115.56001,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-127.4138,116.63403",
+    x: -127.4138,
+    y: 116.63403,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-127.09016,114.17466",
+    x: -127.09016,
+    y: 114.17466,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-126.99177,114.07626",
+    x: -126.99177,
+    y: 114.07626,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-125.86361,114.0787",
+    x: -125.86361,
+    y: 114.0787,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-125.63998,114.26654",
+    x: -125.63998,
+    y: 114.26654,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-126.6458,115.18277",
+    x: -126.6458,
+    y: 115.18277,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-125.5603,116.27887",
+    x: -125.5603,
+    y: 116.27887,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-123.26849,117.92942",
+    x: -123.26849,
+    y: 117.92942,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-122.42915,119.55042",
+    x: -122.42915,
+    y: 119.55042,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-122.57227,119.46097",
+    x: -122.57227,
+    y: 119.46097,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-123.36509,120.49811",
+    x: -123.36509,
+    y: 120.49811,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-123.55294,120.52494",
+    x: -123.55294,
+    y: 120.52494,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-124.44298,121.12373",
+    x: -124.44298,
+    y: 121.12373,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-124.65888,122.64676",
+    x: -124.65888,
+    y: 122.64676,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-123.74437,123.80071",
+    x: -123.74437,
+    y: 123.80071,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-125.3142,123.59168",
+    x: -125.3142,
+    y: 123.59168,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-123.53251,125.23154",
+    x: -123.53251,
+    y: 125.23154,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-121.97198,124.08878",
+    x: -121.97198,
+    y: 124.08878,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-121.79308,123.92777",
+    x: -121.79308,
+    y: 123.92777,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-121.13139,123.45157",
+    x: -121.13139,
+    y: 123.45157,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-120.99722,123.33528",
+    x: -120.99722,
+    y: 123.33528,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-121.17537,122.0576",
+    x: -121.17537,
+    y: 122.0576,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-120.33152,121.3782",
+    x: -120.33152,
+    y: 121.3782,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.62961,122.0879",
+    x: -119.62961,
+    y: 122.0879,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.65645,122.20419",
+    x: -119.65645,
+    y: 122.20419,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.34845,120.51235",
+    x: -119.34845,
+    y: 120.51235,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.3574,120.39606",
+    x: -119.3574,
+    y: 120.39606,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-120.41736,120.37395",
+    x: -120.41736,
+    y: 120.37395,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.4189,118.7902",
+    x: -119.4189,
+    y: 118.7902,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.47257,118.87965",
+    x: -119.47257,
+    y: 118.87965,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-120.52041,119.28915",
+    x: -120.52041,
+    y: 119.28915,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-120.5165,117.76587",
+    x: -120.5165,
+    y: 117.76587,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-120.60596,117.80165",
+    x: -120.60596,
+    y: 117.80165,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-121.478,118.77181",
+    x: -121.478,
+    y: 118.77181,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.99387,117.47394",
+    x: -118.99387,
+    y: 117.47394,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.12804,117.51866",
+    x: -119.12804,
+    y: 117.51866,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.58089,118.29947",
+    x: -118.58089,
+    y: 118.29947,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.59878,118.49626",
+    x: -118.59878,
+    y: 118.49626,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-117.79633,117.50067",
+    x: -117.79633,
+    y: 117.50067,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-117.87684,117.31282",
+    x: -117.87684,
+    y: 117.31282,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.60214,116.52576",
+    x: -119.60214,
+    y: 116.52576,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.58425,116.6331",
+    x: -119.58425,
+    y: 116.6331,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.69159,116.57943",
+    x: -119.69159,
+    y: 116.57943,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.76315,116.50787",
+    x: -119.76315,
+    y: 116.50787,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.78104,116.6331",
+    x: -119.78104,
+    y: 116.6331,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.57262,115.29931",
+    x: -118.57262,
+    y: 115.29931,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.63524,115.14724",
+    x: -118.63524,
+    y: 115.14724,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.51953,114.32723",
+    x: -118.51953,
+    y: 114.32723,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.51058,114.40773",
+    x: -118.51058,
+    y: 114.40773,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.60003,114.37195",
+    x: -118.60003,
+    y: 114.37195,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.60898,114.27356",
+    x: -118.60898,
+    y: 114.27356,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-117.49366,114.62975",
+    x: -117.49366,
+    y: 114.62975,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-117.49366,114.55819",
+    x: -117.49366,
+    y: 114.55819,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-117.57743,113.10074",
+    x: -117.57743,
+    y: 113.10074,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-117.66688,112.93973",
+    x: -117.66688,
+    y: 112.93973,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-116.18371,112.93995",
+    x: -116.18371,
+    y: 112.93995,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.09936,116.11428",
+    x: -118.09936,
+    y: 116.11428,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-116.59794,116.85286",
+    x: -116.59794,
+    y: 116.85286,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-116.68739,117.01387",
+    x: -116.68739,
+    y: 117.01387,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-115.82797,118.13384",
+    x: -115.82797,
+    y: 118.13384,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-115.96215,118.17856",
+    x: -115.96215,
+    y: 118.17856,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-114.63073,118.36924",
+    x: -114.63073,
+    y: 118.36924,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-114.71123,118.28873",
+    x: -114.71123,
+    y: 118.28873,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-114.25879,119.73766",
+    x: -114.25879,
+    y: 119.73766,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-114.44664,119.65716",
+    x: -114.44664,
+    y: 119.65716,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-111.74983,121.59535",
+    x: -111.74983,
+    y: 121.59535,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-111.59776,121.51484",
+    x: -111.59776,
+    y: 121.51484,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-114.53551,122.69864",
+    x: -114.53551,
+    y: 122.69864,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-114.43712,122.54657",
+    x: -114.43712,
+    y: 122.54657,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-115.84909,121.19557",
+    x: -115.84909,
+    y: 121.19557,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-115.49139,122.55891",
+    x: -115.49139,
+    y: 122.55891,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-117.18846,123.39868",
+    x: -117.18846,
+    y: 123.39868,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-117.20635,123.52391",
+    x: -117.20635,
+    y: 123.52391,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.2749,123.40312",
+    x: -118.2749,
+    y: 123.40312,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.26595,123.50152",
+    x: -118.26595,
+    y: 123.50152,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.7331,124.65923",
+    x: -118.7331,
+    y: 124.65923,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.61681,124.63239",
+    x: -118.61681,
+    y: 124.63239,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.56314,124.72184",
+    x: -118.56314,
+    y: 124.72184,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-117.86542,125.24066",
+    x: -117.86542,
+    y: 125.24066,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-117.60602,125.19594",
+    x: -117.60602,
+    y: 125.19594,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-116.21004,124.8333",
+    x: -116.21004,
+    y: 124.8333,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-115.8507,123.86426",
+    x: -115.8507,
+    y: 123.86426,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-115.87753,123.98055",
+    x: -115.87753,
+    y: 123.98055,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-114.27382,124.1086",
+    x: -114.27382,
+    y: 124.1086,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.41901,124.12789",
+    x: -119.41901,
+    y: 124.12789,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.49952,124.02949",
+    x: -119.49952,
+    y: 124.02949,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.79377,125.46515",
+    x: -119.79377,
+    y: 125.46515,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.75799,125.1968",
+    x: -119.75799,
+    y: 125.1968,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-120.45908,124.33785",
+    x: -120.45908,
+    y: 124.33785,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-120.47697,124.4273",
+    x: -120.47697,
+    y: 124.4273,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.6703,126.56035",
+    x: -119.6703,
+    y: 126.56035,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.71502,126.39039",
+    x: -119.71502,
+    y: 126.39039,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.24742,126.26455",
+    x: -118.24742,
+    y: 126.26455,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-115.34759,125.24177",
+    x: -115.34759,
+    y: 125.24177,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-115.41021,125.14337",
+    x: -115.41021,
+    y: 125.14337,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-114.07702,124.09071",
+    x: -114.07702,
+    y: 124.09071,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.20805,127.82702",
+    x: -119.20805,
+    y: 127.82702,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-120.27291,128.801",
+    x: -120.27291,
+    y: 128.801,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-120.15663,128.5237",
+    x: -120.15663,
+    y: 128.5237,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.80873,129.86893",
+    x: -119.80873,
+    y: 129.86893,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-119.65666,129.96733",
+    x: -119.65666,
+    y: 129.96733,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-121.25115,129.0808",
+    x: -121.25115,
+    y: 129.0808,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-121.26009,129.17919",
+    x: -121.26009,
+    y: 129.17919,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-120.32465,126.80896",
+    x: -120.32465,
+    y: 126.80896,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-123.06461,128.3059",
+    x: -123.06461,
+    y: 128.3059,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-125.51289,126.82405",
+    x: -125.51289,
+    y: 126.82405,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-125.54867,126.89561",
+    x: -125.54867,
+    y: 126.89561,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-124.40527,126.53953",
+    x: -124.40527,
+    y: 126.53953,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-124.92874,125.5248",
+    x: -124.92874,
+    y: 125.5248,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-127.04891,124.03221",
+    x: -127.04891,
+    y: 124.03221,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-127.31554,122.68293",
+    x: -127.31554,
+    y: 122.68293,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-127.39605,122.60242",
+    x: -127.39605,
+    y: 122.60242,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-128.29485,120.33416",
+    x: -128.29485,
+    y: 120.33416,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-127.12777,119.76439",
+    x: -127.12777,
+    y: 119.76439,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-126.93097,119.81806",
+    x: -126.93097,
+    y: 119.81806,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-126.72545,121.12312",
+    x: -126.72545,
+    y: 121.12312,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-127.19253,118.34763",
+    x: -127.19253,
+    y: 118.34763,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-117.05868,120.08659",
+    x: -117.05868,
+    y: 120.08659,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-117.03185,120.20288",
+    x: -117.03185,
+    y: 120.20288,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.92206,113.22154",
+    x: -118.92206,
+    y: 113.22154,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.68308,112.42832",
+    x: -118.68308,
+    y: 112.42832,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-118.47734,112.32993",
+    x: -118.47734,
+    y: 112.32993,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-115.89277,110.26525",
+    x: -115.89277,
+    y: 110.26525,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-116.25108,109.10196",
+    x: -116.25108,
+    y: 109.10196,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-116.17952,109.11985",
+    x: -116.17952,
+    y: 109.11985,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-115.63669,108.05756",
+    x: -115.63669,
+    y: 108.05756,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-115.80687,106.98973",
+    x: -115.80687,
+    y: 106.98973,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-114.59366,107.07542",
+    x: -114.59366,
+    y: 107.07542,
+  },
+  {
     id: "additionalMonsters:additionalMonsters@-118.93379,108.42853",
     x: -118.93379,
     y: 108.42853,
@@ -5205,11 +5995,6 @@ export const additionalMonsters = [
     y: 110.12843,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-124.4798,110.22661",
-    x: -124.4798,
-    y: 110.22661,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-125.66946,110.44118",
     x: -125.66946,
     y: 110.44118,
@@ -5233,11 +6018,6 @@ export const additionalMonsters = [
     id: "additionalMonsters:additionalMonsters@-125.64231,110.55779",
     x: -125.64231,
     y: 110.55779,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-125.81938,111.46722",
-    x: -125.81938,
-    y: 111.46722,
   },
   {
     id: "additionalMonsters:additionalMonsters@-124.26508,111.50565",
@@ -5265,11 +6045,6 @@ export const additionalMonsters = [
     y: 111.62226,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-124.99583,113.59756",
-    x: -124.99583,
-    y: 113.59756,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-126.66237,111.75611",
     x: -126.66237,
     y: 111.75611,
@@ -5293,91 +6068,6 @@ export const additionalMonsters = [
     id: "additionalMonsters:additionalMonsters@-126.63521,111.87272",
     x: -126.63521,
     y: 111.87272,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-127.68233,112.46435",
-    x: -127.68233,
-    y: 112.46435,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-128.72136,113.95128",
-    x: -128.72136,
-    y: 113.95128,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-128.64085,113.90656",
-    x: -128.64085,
-    y: 113.90656,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-128.92434,112.94875",
-    x: -128.92434,
-    y: 112.94875,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-128.96012,112.8593",
-    x: -128.96012,
-    y: 112.8593,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-129.40298,112.12355",
-    x: -129.40298,
-    y: 112.12355,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-129.35331,112.02629",
-    x: -129.35331,
-    y: 112.02629,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-129.41593,111.9279",
-    x: -129.41593,
-    y: 111.9279,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-130.28596,112.81268",
-    x: -130.28596,
-    y: 112.81268,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-130.20546,112.98263",
-    x: -130.20546,
-    y: 112.98263,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-130.52999,111.56172",
-    x: -130.52999,
-    y: 111.56172,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-130.34214,111.4991",
-    x: -130.34214,
-    y: 111.4991,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-129.97539,110.81033",
-    x: -129.97539,
-    y: 110.81033,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-130.04695,110.864",
-    x: -130.04695,
-    y: 110.864,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-129.24468,110.66098",
-    x: -129.24468,
-    y: 110.66098,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-129.29835,110.75043",
-    x: -129.29835,
-    y: 110.75043,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-129.21481,109.71842",
-    x: -129.21481,
-    y: 109.71842,
   },
   {
     id: "additionalMonsters:additionalMonsters@-128.45139,109.17992",
@@ -5405,16 +6095,6 @@ export const additionalMonsters = [
     y: 109.29653,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-130.91645,112.05867",
-    x: -130.91645,
-    y: 112.05867,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-131.0502,111.95047",
-    x: -131.0502,
-    y: 111.95047,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-130.25831,113.9745",
     x: -130.25831,
     y: 113.9745,
@@ -5438,46 +6118,6 @@ export const additionalMonsters = [
     id: "additionalMonsters:additionalMonsters@-130.23115,114.09111",
     x: -130.23115,
     y: 114.09111,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-131.04609,113.83149",
-    x: -131.04609,
-    y: 113.83149,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-129.27957,114.79717",
-    x: -129.27957,
-    y: 114.79717,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-129.32429,114.73455",
-    x: -129.32429,
-    y: 114.73455,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-128.01194,115.53918",
-    x: -128.01194,
-    y: 115.53918,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-129.42101,116.44282",
-    x: -129.42101,
-    y: 116.44282,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-129.18844,116.44282",
-    x: -129.18844,
-    y: 116.44282,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-130.04219,115.67629",
-    x: -130.04219,
-    y: 115.67629,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-130.08692,115.56001",
-    x: -130.08692,
-    y: 115.56001,
   },
   {
     id: "additionalMonsters:additionalMonsters@-129.38169,115.69196",
@@ -5505,56 +6145,6 @@ export const additionalMonsters = [
     y: 115.80857,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-127.4138,116.63403",
-    x: -127.4138,
-    y: 116.63403,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-127.09016,114.17466",
-    x: -127.09016,
-    y: 114.17466,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-126.99177,114.07626",
-    x: -126.99177,
-    y: 114.07626,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-125.86361,114.0787",
-    x: -125.86361,
-    y: 114.0787,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-125.63998,114.26654",
-    x: -125.63998,
-    y: 114.26654,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-126.6458,115.18277",
-    x: -126.6458,
-    y: 115.18277,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-125.5603,116.27887",
-    x: -125.5603,
-    y: 116.27887,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-123.26849,117.92942",
-    x: -123.26849,
-    y: 117.92942,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-122.42915,119.55042",
-    x: -122.42915,
-    y: 119.55042,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-122.57227,119.46097",
-    x: -122.57227,
-    y: 119.46097,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-122.54762,120.66545",
     x: -122.54762,
     y: 120.66545,
@@ -5580,41 +6170,6 @@ export const additionalMonsters = [
     y: 120.78206,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-123.36509,120.49811",
-    x: -123.36509,
-    y: 120.49811,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-123.55294,120.52494",
-    x: -123.55294,
-    y: 120.52494,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-124.44298,121.12373",
-    x: -124.44298,
-    y: 121.12373,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-124.65888,122.64676",
-    x: -124.65888,
-    y: 122.64676,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-123.74437,123.80071",
-    x: -123.74437,
-    y: 123.80071,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-125.3142,123.59168",
-    x: -125.3142,
-    y: 123.59168,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-123.53251,125.23154",
-    x: -123.53251,
-    y: 125.23154,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-122.98593,124.16299",
     x: -122.98593,
     y: 124.16299,
@@ -5638,16 +6193,6 @@ export const additionalMonsters = [
     id: "additionalMonsters:additionalMonsters@-122.95877,124.2796",
     x: -122.95877,
     y: 124.2796,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-121.97198,124.08878",
-    x: -121.97198,
-    y: 124.08878,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-121.79308,123.92777",
-    x: -121.79308,
-    y: 123.92777,
   },
   {
     id: "additionalMonsters:additionalMonsters@-122.47606,122.91962",
@@ -5700,61 +6245,6 @@ export const additionalMonsters = [
     y: 122.89311,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-121.13139,123.45157",
-    x: -121.13139,
-    y: 123.45157,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-120.99722,123.33528",
-    x: -120.99722,
-    y: 123.33528,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-121.17537,122.0576",
-    x: -121.17537,
-    y: 122.0576,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-120.33152,121.3782",
-    x: -120.33152,
-    y: 121.3782,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.62961,122.0879",
-    x: -119.62961,
-    y: 122.0879,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.65645,122.20419",
-    x: -119.65645,
-    y: 122.20419,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.34845,120.51235",
-    x: -119.34845,
-    y: 120.51235,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.3574,120.39606",
-    x: -119.3574,
-    y: 120.39606,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-120.41736,120.37395",
-    x: -120.41736,
-    y: 120.37395,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.4189,118.7902",
-    x: -119.4189,
-    y: 118.7902,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.47257,118.87965",
-    x: -119.47257,
-    y: 118.87965,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-118.5581,119.6636",
     x: -118.5581,
     y: 119.6636,
@@ -5780,26 +6270,6 @@ export const additionalMonsters = [
     y: 119.78021,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-120.52041,119.28915",
-    x: -120.52041,
-    y: 119.28915,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-120.5165,117.76587",
-    x: -120.5165,
-    y: 117.76587,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-120.60596,117.80165",
-    x: -120.60596,
-    y: 117.80165,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-121.478,118.77181",
-    x: -121.478,
-    y: 118.77181,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-121.56745,118.03831",
     x: -121.56745,
     y: 118.03831,
@@ -5808,116 +6278,6 @@ export const additionalMonsters = [
     id: "additionalMonsters:additionalMonsters@-121.5585,117.93991",
     x: -121.5585,
     y: 117.93991,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-118.99387,117.47394",
-    x: -118.99387,
-    y: 117.47394,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.12804,117.51866",
-    x: -119.12804,
-    y: 117.51866,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-118.58089,118.29947",
-    x: -118.58089,
-    y: 118.29947,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-118.59878,118.49626",
-    x: -118.59878,
-    y: 118.49626,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-117.79633,117.50067",
-    x: -117.79633,
-    y: 117.50067,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-117.87684,117.31282",
-    x: -117.87684,
-    y: 117.31282,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.60214,116.52576",
-    x: -119.60214,
-    y: 116.52576,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.58425,116.6331",
-    x: -119.58425,
-    y: 116.6331,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.69159,116.57943",
-    x: -119.69159,
-    y: 116.57943,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.76315,116.50787",
-    x: -119.76315,
-    y: 116.50787,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.78104,116.6331",
-    x: -119.78104,
-    y: 116.6331,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-118.57262,115.29931",
-    x: -118.57262,
-    y: 115.29931,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-118.63524,115.14724",
-    x: -118.63524,
-    y: 115.14724,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-118.51953,114.32723",
-    x: -118.51953,
-    y: 114.32723,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-118.51058,114.40773",
-    x: -118.51058,
-    y: 114.40773,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-118.60003,114.37195",
-    x: -118.60003,
-    y: 114.37195,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-118.60898,114.27356",
-    x: -118.60898,
-    y: 114.27356,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-117.49366,114.62975",
-    x: -117.49366,
-    y: 114.62975,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-117.49366,114.55819",
-    x: -117.49366,
-    y: 114.55819,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-117.57743,113.10074",
-    x: -117.57743,
-    y: 113.10074,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-117.66688,112.93973",
-    x: -117.66688,
-    y: 112.93973,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-116.18371,112.93995",
-    x: -116.18371,
-    y: 112.93995,
   },
   {
     id: "additionalMonsters:additionalMonsters@-115.22797,112.59885",
@@ -5995,51 +6355,6 @@ export const additionalMonsters = [
     y: 115.05876,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-118.09936,116.11428",
-    x: -118.09936,
-    y: 116.11428,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-116.59794,116.85286",
-    x: -116.59794,
-    y: 116.85286,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-116.68739,117.01387",
-    x: -116.68739,
-    y: 117.01387,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-115.82797,118.13384",
-    x: -115.82797,
-    y: 118.13384,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-115.96215,118.17856",
-    x: -115.96215,
-    y: 118.17856,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-114.63073,118.36924",
-    x: -114.63073,
-    y: 118.36924,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-114.71123,118.28873",
-    x: -114.71123,
-    y: 118.28873,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-114.25879,119.73766",
-    x: -114.25879,
-    y: 119.73766,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-114.44664,119.65716",
-    x: -114.44664,
-    y: 119.65716,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-113.57306,120.26489",
     x: -113.57306,
     y: 120.26489,
@@ -6090,16 +6405,6 @@ export const additionalMonsters = [
     y: 120.9626,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-111.74983,121.59535",
-    x: -111.74983,
-    y: 121.59535,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-111.59776,121.51484",
-    x: -111.59776,
-    y: 121.51484,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-114.14555,121.74977",
     x: -114.14555,
     y: 121.74977,
@@ -6123,46 +6428,6 @@ export const additionalMonsters = [
     id: "additionalMonsters:additionalMonsters@-114.30656,121.73188",
     x: -114.30656,
     y: 121.73188,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-114.53551,122.69864",
-    x: -114.53551,
-    y: 122.69864,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-114.43712,122.54657",
-    x: -114.43712,
-    y: 122.54657,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-115.84909,121.19557",
-    x: -115.84909,
-    y: 121.19557,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-115.49139,122.55891",
-    x: -115.49139,
-    y: 122.55891,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-117.18846,123.39868",
-    x: -117.18846,
-    y: 123.39868,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-117.20635,123.52391",
-    x: -117.20635,
-    y: 123.52391,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-118.2749,123.40312",
-    x: -118.2749,
-    y: 123.40312,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-118.26595,123.50152",
-    x: -118.26595,
-    y: 123.50152,
   },
   {
     id: "additionalMonsters:additionalMonsters@-117.79515,124.20074",
@@ -6190,51 +6455,6 @@ export const additionalMonsters = [
     y: 124.18285,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-118.7331,124.65923",
-    x: -118.7331,
-    y: 124.65923,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-118.61681,124.63239",
-    x: -118.61681,
-    y: 124.63239,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-118.56314,124.72184",
-    x: -118.56314,
-    y: 124.72184,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-117.86542,125.24066",
-    x: -117.86542,
-    y: 125.24066,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-117.60602,125.19594",
-    x: -117.60602,
-    y: 125.19594,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-116.21004,124.8333",
-    x: -116.21004,
-    y: 124.8333,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-115.8507,123.86426",
-    x: -115.8507,
-    y: 123.86426,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-115.87753,123.98055",
-    x: -115.87753,
-    y: 123.98055,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-114.27382,124.1086",
-    x: -114.27382,
-    y: 124.1086,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-114.10082,123.2615",
     x: -114.10082,
     y: 123.2615,
@@ -6258,61 +6478,6 @@ export const additionalMonsters = [
     id: "additionalMonsters:additionalMonsters@-114.26183,123.24361",
     x: -114.26183,
     y: 123.24361,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.41901,124.12789",
-    x: -119.41901,
-    y: 124.12789,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.49952,124.02949",
-    x: -119.49952,
-    y: 124.02949,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.79377,125.46515",
-    x: -119.79377,
-    y: 125.46515,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.75799,125.1968",
-    x: -119.75799,
-    y: 125.1968,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-120.45908,124.33785",
-    x: -120.45908,
-    y: 124.33785,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-120.47697,124.4273",
-    x: -120.47697,
-    y: 124.4273,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.6703,126.56035",
-    x: -119.6703,
-    y: 126.56035,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.71502,126.39039",
-    x: -119.71502,
-    y: 126.39039,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-118.24742,126.26455",
-    x: -118.24742,
-    y: 126.26455,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-115.34759,125.24177",
-    x: -115.34759,
-    y: 125.24177,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-115.41021,125.14337",
-    x: -115.41021,
-    y: 125.14337,
   },
   {
     id: "additionalMonsters:additionalMonsters@-111.97188,124.29913",
@@ -6365,11 +6530,6 @@ export const additionalMonsters = [
     y: 125.30993,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-114.07702,124.09071",
-    x: -114.07702,
-    y: 124.09071,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-113.4031,124.44225",
     x: -113.4031,
     y: 124.44225,
@@ -6405,46 +6565,6 @@ export const additionalMonsters = [
     y: 124.46655,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-119.20805,127.82702",
-    x: -119.20805,
-    y: 127.82702,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-120.27291,128.801",
-    x: -120.27291,
-    y: 128.801,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-120.15663,128.5237",
-    x: -120.15663,
-    y: 128.5237,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.80873,129.86893",
-    x: -119.80873,
-    y: 129.86893,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-119.65666,129.96733",
-    x: -119.65666,
-    y: 129.96733,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-121.25115,129.0808",
-    x: -121.25115,
-    y: 129.0808,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-121.26009,129.17919",
-    x: -121.26009,
-    y: 129.17919,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-120.32465,126.80896",
-    x: -120.32465,
-    y: 126.80896,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-120.64667,125.86077",
     x: -120.64667,
     y: 125.86077,
@@ -6475,11 +6595,6 @@ export const additionalMonsters = [
     y: 126.88957,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-123.06461,128.3059",
-    x: -123.06461,
-    y: 128.3059,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-122.85515,127.38155",
     x: -122.85515,
     y: 127.38155,
@@ -6508,26 +6623,6 @@ export const additionalMonsters = [
     id: "additionalMonsters:additionalMonsters@-124.42427,127.62607",
     x: -124.42427,
     y: 127.62607,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-125.51289,126.82405",
-    x: -125.51289,
-    y: 126.82405,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-125.54867,126.89561",
-    x: -125.54867,
-    y: 126.89561,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-124.40527,126.53953",
-    x: -124.40527,
-    y: 126.53953,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-124.92874,125.5248",
-    x: -124.92874,
-    y: 125.5248,
   },
   {
     id: "additionalMonsters:additionalMonsters@-126.25802,124.3611",
@@ -6580,21 +6675,6 @@ export const additionalMonsters = [
     y: 123.51132,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-127.04891,124.03221",
-    x: -127.04891,
-    y: 124.03221,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-127.31554,122.68293",
-    x: -127.31554,
-    y: 122.68293,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-127.39605,122.60242",
-    x: -127.39605,
-    y: 122.60242,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-128.74476,121.51656",
     x: -128.74476,
     y: 121.51656,
@@ -6608,11 +6688,6 @@ export const additionalMonsters = [
     id: "additionalMonsters:additionalMonsters@-128.6732,121.445",
     x: -128.6732,
     y: 121.445,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-128.29485,120.33416",
-    x: -128.29485,
-    y: 120.33416,
   },
   {
     id: "additionalMonsters:additionalMonsters@-128.64636,120.72044",
@@ -6638,36 +6713,6 @@ export const additionalMonsters = [
     id: "additionalMonsters:additionalMonsters@-128.70898,120.62205",
     x: -128.70898,
     y: 120.62205,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-127.12777,119.76439",
-    x: -127.12777,
-    y: 119.76439,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-126.93097,119.81806",
-    x: -126.93097,
-    y: 119.81806,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-126.72545,121.12312",
-    x: -126.72545,
-    y: 121.12312,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-127.19253,118.34763",
-    x: -127.19253,
-    y: 118.34763,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-117.05868,120.08659",
-    x: -117.05868,
-    y: 120.08659,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-117.03185,120.20288",
-    x: -117.03185,
-    y: 120.20288,
   },
   {
     id: "additionalMonsters:additionalMonsters@-115.88168,117.4197",
@@ -6770,21 +6815,6 @@ export const additionalMonsters = [
     y: 113.73431,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-118.92206,113.22154",
-    x: -118.92206,
-    y: 113.22154,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-118.68308,112.42832",
-    x: -118.68308,
-    y: 112.42832,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-118.47734,112.32993",
-    x: -118.47734,
-    y: 112.32993,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-120.51525,115.43388",
     x: -120.51525,
     y: 115.43388,
@@ -6810,39 +6840,14 @@ export const additionalMonsters = [
     y: 115.33548,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-115.89277,110.26525",
-    x: -115.89277,
-    y: 110.26525,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-116.25108,109.10196",
-    x: -116.25108,
-    y: 109.10196,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-116.17952,109.11985",
-    x: -116.17952,
-    y: 109.11985,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-115.63669,108.05756",
-    x: -115.63669,
-    y: 108.05756,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-115.80687,106.98973",
-    x: -115.80687,
-    y: 106.98973,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-114.59366,107.07542",
-    x: -114.59366,
-    y: 107.07542,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-157.2722,102.66981",
     x: -157.2722,
     y: 102.66981,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-155.0859,105.46652",
+    x: -155.0859,
+    y: 105.46652,
   },
   {
     id: "additionalMonsters:additionalMonsters@-157.13662,102.50361",
@@ -6958,11 +6963,6 @@ export const additionalMonsters = [
     id: "additionalMonsters:additionalMonsters@-155.30073,107.73965",
     x: -155.30073,
     y: 107.73965,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-155.0859,105.46652",
-    x: -155.0859,
-    y: 105.46652,
   },
   {
     id: "additionalMonsters:additionalMonsters@-155.14036,105.39725",
@@ -19045,6 +19045,76 @@ export const additionalMonsters = [
     y: 68.08835,
   },
   {
+    id: "additionalMonsters:additionalMonsters@-83.44523,65.79669",
+    x: -83.44523,
+    y: 65.79669,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-89.06659,71.52811",
+    x: -89.06659,
+    y: 71.52811,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-88.87831,74.10037",
+    x: -88.87831,
+    y: 74.10037,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-86.4246,77.86272",
+    x: -86.4246,
+    y: 77.86272,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-82.08539,79.42679",
+    x: -82.08539,
+    y: 79.42679,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-80.84392,80.24004",
+    x: -80.84392,
+    y: 80.24004,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-80.30664,81.60621",
+    x: -80.30664,
+    y: 81.60621,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-83.29033,77.89145",
+    x: -83.29033,
+    y: 77.89145,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-83.23666,78.02691",
+    x: -83.23666,
+    y: 78.02691,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-81.62547,77.43646",
+    x: -81.62547,
+    y: 77.43646,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-75.93273,79.13954",
+    x: -75.93273,
+    y: 79.13954,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-74.89037,83.23955",
+    x: -74.89037,
+    y: 83.23955,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-77.52428,85.20437",
+    x: -77.52428,
+    y: 85.20437,
+  },
+  {
+    id: "additionalMonsters:additionalMonsters@-74.74904,86.62832",
+    x: -74.74904,
+    y: 86.62832,
+  },
+  {
     id: "additionalMonsters:additionalMonsters@-83.68124,68.08206",
     x: -83.68124,
     y: 68.08206,
@@ -19053,11 +19123,6 @@ export const additionalMonsters = [
     id: "additionalMonsters:additionalMonsters@-83.82321,67.93271",
     x: -83.82321,
     y: 67.93271,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-83.44523,65.79669",
-    x: -83.44523,
-    y: 65.79669,
   },
   {
     id: "additionalMonsters:additionalMonsters@-83.51665,65.79969",
@@ -19235,11 +19300,6 @@ export const additionalMonsters = [
     y: 72.29921,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-89.06659,71.52811",
-    x: -89.06659,
-    y: 71.52811,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-89.04737,71.58067",
     x: -89.04737,
     y: 71.58067,
@@ -19273,11 +19333,6 @@ export const additionalMonsters = [
     id: "additionalMonsters:additionalMonsters@-87.86254,74.79748",
     x: -87.86254,
     y: 74.79748,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-88.87831,74.10037",
-    x: -88.87831,
-    y: 74.10037,
   },
   {
     id: "additionalMonsters:additionalMonsters@-88.95098,74.02634",
@@ -19475,11 +19530,6 @@ export const additionalMonsters = [
     y: 78.09804,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-86.4246,77.86272",
-    x: -86.4246,
-    y: 77.86272,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-86.33307,77.86372",
     x: -86.33307,
     y: 77.86372,
@@ -19530,11 +19580,6 @@ export const additionalMonsters = [
     y: 78.39828,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-82.08539,79.42679",
-    x: -82.08539,
-    y: 79.42679,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-82.14107,79.38908",
     x: -82.14107,
     y: 79.38908,
@@ -19550,11 +19595,6 @@ export const additionalMonsters = [
     y: 79.30306,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-80.84392,80.24004",
-    x: -80.84392,
-    y: 80.24004,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-81.48925,80.97733",
     x: -81.48925,
     y: 80.97733,
@@ -19568,11 +19608,6 @@ export const additionalMonsters = [
     id: "additionalMonsters:additionalMonsters@-80.1404,80.46095",
     x: -80.1404,
     y: 80.46095,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-80.30664,81.60621",
-    x: -80.30664,
-    y: 81.60621,
   },
   {
     id: "additionalMonsters:additionalMonsters@-80.32746,81.67419",
@@ -19673,21 +19708,6 @@ export const additionalMonsters = [
     id: "additionalMonsters:additionalMonsters@-83.32128,78.02015",
     x: -83.32128,
     y: 78.02015,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-83.29033,77.89145",
-    x: -83.29033,
-    y: 77.89145,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-83.23666,78.02691",
-    x: -83.23666,
-    y: 78.02691,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-81.62547,77.43646",
-    x: -81.62547,
-    y: 77.43646,
   },
   {
     id: "additionalMonsters:additionalMonsters@-81.57108,77.3702",
@@ -19795,11 +19815,6 @@ export const additionalMonsters = [
     y: 79.15339,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-75.93273,79.13954",
-    x: -75.93273,
-    y: 79.13954,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-76.30874,80.44871",
     x: -76.30874,
     y: 80.44871,
@@ -19865,11 +19880,6 @@ export const additionalMonsters = [
     y: 83.52623,
   },
   {
-    id: "additionalMonsters:additionalMonsters@-74.89037,83.23955",
-    x: -74.89037,
-    y: 83.23955,
-  },
-  {
     id: "additionalMonsters:additionalMonsters@-74.87538,83.30542",
     x: -74.87538,
     y: 83.30542,
@@ -19908,11 +19918,6 @@ export const additionalMonsters = [
     id: "additionalMonsters:additionalMonsters@-76.96628,86.60571",
     x: -76.96628,
     y: 86.60571,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-77.52428,85.20437",
-    x: -77.52428,
-    y: 85.20437,
   },
   {
     id: "additionalMonsters:additionalMonsters@-77.62124,85.16393",
@@ -19993,11 +19998,6 @@ export const additionalMonsters = [
     id: "additionalMonsters:additionalMonsters@-76.11628,86.33392",
     x: -76.11628,
     y: 86.33392,
-  },
-  {
-    id: "additionalMonsters:additionalMonsters@-74.74904,86.62832",
-    x: -74.74904,
-    y: 86.62832,
   },
   {
     id: "additionalMonsters:additionalMonsters@-73.89668,87.78109",

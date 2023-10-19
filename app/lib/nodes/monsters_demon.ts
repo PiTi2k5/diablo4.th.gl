@@ -1,5 +1,11 @@
 export const demonMonsters = [
   {
+    id: "demonMonsters:Actor_Demon_mega_unique_FrostT4Boss@-137.74858,68.67744",
+    termId: "Actor_Demon_mega_unique_FrostT4Boss",
+    x: -137.74858,
+    y: 68.67744,
+  },
+  {
     id: "demonMonsters:Actor_demon_mega_phys@-98.11406,107.8179",
     termId: "Actor_demon_mega_phys",
     x: -98.11406,

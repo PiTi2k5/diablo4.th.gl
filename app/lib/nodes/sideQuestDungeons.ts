@@ -115,6 +115,16 @@ export const sideQuestDungeons = [
     y: 143.30085,
   },
   {
+    id: "sideQuestDungeons:QST_Frac_Lilith_Blood_03_Cellar@-87.2315,126.17584",
+    x: -87.2315,
+    y: 126.17584,
+  },
+  {
+    id: "sideQuestDungeons:QST_S02_Main_01_Scos_Cellar@-54.40713,73.25573",
+    x: -54.40713,
+    y: 73.25573,
+  },
+  {
     id: "sideQuestDungeons:QST_Template_Dungeon_KillUnique@-132.47696,62.18353",
     x: -132.47696,
     y: 62.18353,

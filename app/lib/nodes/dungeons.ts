@@ -797,4 +797,9 @@ export const dungeons = [
     aspectId: "Legendary_Sorc_113",
     className: "Sorcerer",
   },
+  {
+    id: "dungeons:DGN_S02_Kehj_TombofHallows@-105.8865,43.62871",
+    x: -105.8865,
+    y: 43.62871,
+  },
 ];

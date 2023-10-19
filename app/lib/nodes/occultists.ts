@@ -5,6 +5,11 @@ export const occultists = [
     y: 122.04089,
   },
   {
+    id: "occultists:Hawe_Bog@-118.32753,142.05587",
+    x: -118.32753,
+    y: 142.05587,
+  },
+  {
     id: "occultists:Hawe_Zarbinzet@-146.02876,89.57781",
     x: -146.02876,
     y: 89.57781,

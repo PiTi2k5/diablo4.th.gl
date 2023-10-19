@@ -276,7 +276,7 @@
       "name": "Paso Oriental",
       "description": "de destreza +2"
     },
-    "altars:Frac_Taiga_S_Prologue_Woods@-107.51272,105.63763": {
+    "altars:Frac_Taiga_S_Prologue_Woods@-107.48478,105.58286": {
       "name": "Taiga Aullahielo",
       "description": "de fuerza +2"
     },
@@ -726,31 +726,31 @@
       "name": "Elimina esqueletos en los Escarpes Indómitos",
       "description": "Las tierras de Santuario resuenan con el estrépito de innumerables seres inferiores. Reduce su número para que el Árbol tenga un respiro."
     },
-    "events:Bounty_Harvest_Tier2_Step_Central@-87.25674,82.58935": {
+    "events:Bounty_Harvest_Tier2_Step_Central@-78.72625,75.8856": {
       "name": "Cosecha: Riscos de Khargai",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Step_Coast@-93.05912,36.13587": {
+    "events:Bounty_Harvest_Tier2_Step_Coast@-94.33197,41.53392": {
       "name": "Cosecha: Costa Arriscada",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Step_Eastern@-97.37943,93.58107": {
+    "events:Bounty_Harvest_Tier2_Step_Eastern@-103.9869,88.58837": {
       "name": "Cosecha: Páramos Maleficiados",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Step_Grasslands@-54.6236,68.81502": {
+    "events:Bounty_Harvest_Tier2_Step_Grasslands@-66.65321,66.91558": {
       "name": "Cosecha: Praderas de Kotama",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Step_South@-110.24715,77.6441": {
+    "events:Bounty_Harvest_Tier2_Step_South@-106.03909,68.55379": {
       "name": "Cosecha: Escarpes Indómitos",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Step_Volcano@-88.87259,96.91478": {
+    "events:Bounty_Harvest_Tier2_Step_Volcano@-81.03577,92.11572": {
       "name": "Cosecha: Cresta de Chambatar",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Step_WesternFlats@-80.85308,64.77766": {
+    "events:Bounty_Harvest_Tier2_Step_WesternFlats@-79.05765,59.0315": {
       "name": "Cosecha: Llanos de Dindai",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
@@ -866,7 +866,7 @@
       "name": "Senda de los Ciegos",
       "description": "Muchas almas perdidas están vinculadas al Árbol por los ecos de sus viejos pecados. Volver al lugar de la transgresión y purificarlo de todo mal podría ser su penitencia."
     },
-    "events:Bounty_Dungeon_Tier3_Step_Central_OnyxHold@-81.30402,71.90502": {
+    "events:Bounty_Dungeon_Tier3_Step_Central_OnyxHold@-81.03201,72.10432": {
       "name": "Reducto de Ónice",
       "description": "Muchas almas perdidas están vinculadas al Árbol por los ecos de sus viejos pecados. Volver al lugar de la transgresión y purificarlo de todo mal podría ser su penitencia."
     },
@@ -918,7 +918,7 @@
       "name": "Lamento de los Ancestros",
       "description": "Muchas almas perdidas están vinculadas al árbol por los ecos de sus viejos pecados. Volver al lugar de la transgresión y purificarlo de todo mal podría ser su penitencia."
     },
-    "events:Bounty_Dungeon_Tier3_Step_South_BloodsoakedCrag@-95.49018,73.14825": {
+    "events:Bounty_Dungeon_Tier3_Step_South_BloodsoakedCrag@-95.07724,72.81245": {
       "name": "Risco Ensangrentado",
       "description": "Muchas almas perdidas están vinculadas al árbol por los ecos de sus viejos pecados. Volver al lugar de la transgresión y purificarlo de todo mal podría ser su penitencia."
     },
@@ -1050,6 +1050,26 @@
       "name": "Sótano de los Monjes",
       "description": "Muchas almas perdidas están vinculadas al Árbol por los ecos de sus viejos pecados. Volver al lugar de la transgresión y purificarlo de todo mal podría ser su penitencia."
     },
+    "events:Bounty_S2_Vampzone_Tier2_Step_Grassland_BloodSeeker@-64.39203,67.11795": {
+      "name": "Slay Kotama Grassland Blood Seekers",
+      "description": "There are champions among the Vampires that wield undeserved power. Lure them out at a Sanguine Altar and bring their heads to the Tree."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Step_Grassland_Rescue@-64.71262,68.74525": {
+      "name": "Rescue Kotama Grassland Villagers",
+      "description": "The Vampires' dark rituals are fueled by vast quantities of fresh blood. Find and rescue those who would be consumed."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Step_Grassland_Structures@-64.71584,68.7456": {
+      "name": "Raze Kotama Grassland Structures",
+      "description": "The Vampire seek to create a permanent presence in these lands. Destroy any grotesque fixtures they have erected."
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Step_Grassland_VampireElites@-63.25707,68.225": {
+      "name": "Cull Kotama Grassland Vampires",
+      "description": "The Vampires' reckless use of blood magicks is tainting the Tree's soil. Exterminate their leadership and drive them from these lands. "
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Step_Grassland_VampireSwarm@-63.2703,68.22536": {
+      "name": "Cull Kotama Grassland Ghouls",
+      "description": "The Vampires' Ghoul swarms threaten to consume every living being left in these lands. Obliterate their hordes before it's too late."
+    },
     "events:Bounty_Assassinate_Tier1_Frac_BanditMelee_Refactor@-105.06811,113.31639": {
       "name": "Jefe Bandido de la Taiga",
       "description": "Quien rompe su pacto con el Árbol de los Susurros paga siempre un precio inevitable."
@@ -1074,7 +1094,7 @@
       "name": "Anciano del Clan de Hielo",
       "description": "Quien rompe su pacto con el Árbol de los Susurros paga siempre un precio inevitable."
     },
-    "events:Bounty_Assassinate_Tier1_Frac_Skeleton2H_Refactor@-92.1343,138.03937": {
+    "events:Bounty_Assassinate_Tier1_Frac_Skeleton2H_Refactor@-92.11755,137.80293": {
       "name": "Rastrero de Escarcha",
       "description": "Quien rompe su pacto con el Árbol de los Susurros paga siempre un precio inevitable."
     },
@@ -1134,7 +1154,7 @@
       "name": "Cosecha: Valle Galerna",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Frac_Glacier@-88.19018,156.96254": {
+    "events:Bounty_Harvest_Tier2_Frac_Glacier@-89.34389,149.40085": {
       "name": "Cosecha: Sede de los Cielos",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
@@ -1150,11 +1170,11 @@
       "name": "Cosecha: Calvero Pálido",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Frac_TundraN@-98.6574,140.63664": {
+    "events:Bounty_Harvest_Tier2_Frac_TundraN@-94.0453,131.79171": {
       "name": "Cosecha: Extensión Gélida",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Frac_TundraS@-76.17018,127.27772": {
+    "events:Bounty_Harvest_Tier2_Frac_TundraS@-84.09199,119.13411": {
       "name": "Cosecha: Paso de Sarkova",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
@@ -1222,7 +1242,7 @@
       "name": "Evento en la Extensión Gélida",
       "description": "En este lugar, que antaño albergaba una línea ley aprovechada por el Árbol de los Susurros, se han arraigado fuerzas oscuras."
     },
-    "events:Bounty_LE_Tier1_Frac_TundraN_LocC@-98.2773,149.71976": {
+    "events:Bounty_LE_Tier1_Frac_TundraN_LocC@-98.27745,149.71918": {
       "name": "Evento en el Yermo Escalofriante",
       "description": "En este lugar, que antaño albergaba una línea ley aprovechada por el Árbol de los Susurros, se han arraigado fuerzas oscuras."
     },
@@ -1458,7 +1478,7 @@
       "name": "Cosecha: Lodazal Retorcido",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Hawe_Coast@-154.97781,132.18576": {
+    "events:Bounty_Harvest_Tier2_Hawe_Coast@-153.93989,138.97145": {
       "name": "Cosecha: Costa Desierta",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
@@ -1466,15 +1486,15 @@
       "name": "Cosecha: Meseta de Umir",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Hawe_Delta@-143.11548,151.35017": {
+    "events:Bounty_Harvest_Tier2_Hawe_Delta@-136.46425,145.16837": {
       "name": "Cosecha: Delta de la Podredumbre",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Hawe_Fens@-157.55805,113.06643": {
+    "events:Bounty_Harvest_Tier2_Hawe_Fens@-158.3845,121.48486": {
       "name": "Cosecha: Fangales Tóxicos",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Hawe_Marsh@-128.72451,127.4491": {
+    "events:Bounty_Harvest_Tier2_Hawe_Marsh@-140.789,128.21119": {
       "name": "Cosecha: Marjal de la Peste",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
@@ -1482,7 +1502,7 @@
       "name": "Cosecha: Estribaciones Deprimentes",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Hawe_Wetland@-136.85136,110.72821": {
+    "events:Bounty_Harvest_Tier2_Hawe_Wetland@-138.43876,116.58336": {
       "name": "Cosecha: Humedales de Fethis",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
@@ -1934,6 +1954,26 @@
       "name": "Escondrijo Pantanoso",
       "description": "Muchas almas perdidas están vinculadas al Árbol por los ecos de sus viejos pecados. Volver al lugar de la transgresión y purificarlo de todo mal podría ser su penitencia."
     },
+    "events:Bounty_S2_Vampzone_Tier2_Hawe_Coast_BloodSeeker@-151.21574,141.40863": {
+      "name": "Slay Forsaken Coast Blood Seekers",
+      "description": "There are champions among the Vampires that wield undeserved power. Lure them out at a Sanguine Altar and bring their heads to the Tree."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Hawe_Coast_Rescue@-151.21621,139.08029": {
+      "name": "Rescue Forsaken Coast Villagers",
+      "description": "The Vampires' dark rituals are fueled by vast quantities of fresh blood. Find and rescue those who would be consumed."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Hawe_Coast_Structures@-151.21621,139.08029": {
+      "name": "Raze Forsaken Coast Structures",
+      "description": "The Vampire seek to create a permanent presence in these lands. Destroy any grotesque fixtures they have erected."
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Hawe_Coast_VampireElites@-149.80589,140.28237": {
+      "name": "Cull Forsaken Coast Vampires",
+      "description": "The Vampires' reckless use of blood magicks is tainting the Tree's soil. Exterminate their leadership and drive them from these lands. "
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Hawe_Coast_VampireSwarm@-149.80589,140.28237": {
+      "name": "Cull Forsaken Coast Ghouls",
+      "description": "The Vampires' Ghoul swarms threaten to consume every living being left in these lands. Obliterate their hordes before it's too late."
+    },
     "events:Bounty_WE_Tier3_Kehj_Boss@-114.93128,74.82564": {
       "name": "Jefe del mundo",
       "description": "En ocasiones se ha visto a Ashava la Pestilente, a Avaricia el Maldito por el Oro y a la Muerte Errante en esta ubicación."
@@ -1946,7 +1986,7 @@
       "name": "Evento de legión",
       "description": "Las fuerzas del mal se están concentrando en esta ubicación. Diezma sus filas antes de que se organicen del todo."
     },
-    "events:Bounty_LE_Tier1_Kehj_PvP_CompleteAny1@-146.94664,68.07851": {
+    "events:Bounty_LE_Tier1_Kehj_PvP_CompleteAny1@-148.04037,65.12684": {
       "name": "JcJ: Eventos en los Campos del Odio",
       "description": "En este lugar, que antaño albergaba una línea ley aprovechada por el Árbol de los Susurros, se han arraigado fuerzas oscuras."
     },
@@ -1958,7 +1998,7 @@
       "name": "JcJ: Abominación Hirviente",
       "description": "Quien rompe su pacto con el Árbol de los Susurros paga siempre un precio inevitable."
     },
-    "events:Bounty_Harvest_Tier2_Kehj_HighDesert@-120.3736,44.32039": {
+    "events:Bounty_Harvest_Tier2_Kehj_HighDesert@-113.93239,45.78261": {
       "name": "Cosecha: Arenas de Ámbar",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
@@ -1966,11 +2006,11 @@
       "name": "Cosecha: Extensión del Sur",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Kehj_Oasis@-119.41708,32.19658": {
+    "events:Bounty_Harvest_Tier2_Kehj_Oasis@-126.80617,33.39444": {
       "name": "Cosecha: Costa Escarpada",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Kehj_Ridge@-125.56967,78.49679": {
+    "events:Bounty_Harvest_Tier2_Kehj_Ridge@-129.75244,72.47804": {
       "name": "Cosecha: Arenas Erosivas",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
@@ -2082,6 +2122,10 @@
       "name": "Salas Asaltadas",
       "description": "Muchas almas perdidas están vinculadas al Árbol por los ecos de sus viejos pecados. Volver al lugar de la transgresión y purificarlo de todo mal podría ser su penitencia."
     },
+    "events:Bounty_Dungeon_Tier3_Kehj_AltarOfRuin_SepulcherOfTheForsworn@-106.85585,45.08012": {
+      "name": "Sepulcher of the Forsworn",
+      "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
+    },
     "events:Bounty_Dungeon_Tier3_Kehj_LowDesert_Conclave@-138.23703,43.46635": {
       "name": "Cónclave",
       "description": "Muchas almas perdidas están vinculadas al árbol por los ecos de sus viejos pecados. Volver al lugar de la transgresión y purificarlo de todo mal podría ser su penitencia."
@@ -2113,6 +2157,10 @@
     "events:Bounty_Dungeon_Tier3_Kehj_Oasis_HereticsAsylum@-132.85894,19.00346": {
       "name": "Manicomio de los Herejes",
       "description": "Muchas almas perdidas están vinculadas al árbol por los ecos de sus viejos pecados. Volver al lugar de la transgresión y purificarlo de todo mal podría ser su penitencia."
+    },
+    "events:Bounty_Dungeon_Tier3_Step_Camp03_CrumblingHekma@-146.21747,47.86839": {
+      "name": "Crumbling Hekma",
+      "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_Dungeon_Tier3_Kehj_Ridge_AbandonedMineworks@-138.00625,67.88752": {
       "name": "Excavación Abandonada",
@@ -2410,11 +2458,11 @@
       "name": "Elimina bandidos en los Eriales Velados",
       "description": "Las tierras de Santuario resuenan con el estrépito de innumerables seres inferiores. Reduce su número para que el Árbol tenga un respiro."
     },
-    "events:Bounty_Harvest_Tier2_Scos_Coast@-38.60791,88.70717": {
+    "events:Bounty_Harvest_Tier2_Scos_Coast@-30.48503,95.40026": {
       "name": "Cosecha: Costanorte",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Scos_DeepForest@-54.02356,71.64203": {
+    "events:Bounty_Harvest_Tier2_Scos_DeepForest@-52.12004,80.60146": {
       "name": "Cosecha: Espesura",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
@@ -2426,7 +2474,7 @@
       "name": "Cosecha: Bosque Alto",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Scos_Highlands@-69.7348,136.42331": {
+    "events:Bounty_Harvest_Tier2_Scos_Highlands@-64.81337,133.34243": {
       "name": "Cosecha: Tierras Altas Salvajes",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
@@ -2438,11 +2486,11 @@
       "name": "Cosecha: La Playa",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Scos_Lowlands@-55.43732,94.99923": {
+    "events:Bounty_Harvest_Tier2_Scos_Lowlands@-63.63666,97.52737": {
       "name": "Cosecha: Tierras Bajas de Poniente",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
-    "events:Bounty_Harvest_Tier2_Scos_Moors@-52.80438,142.32511": {
+    "events:Bounty_Harvest_Tier2_Scos_Moors@-55.64041,136.61104": {
       "name": "Cosecha: Eriales Velados",
       "description": "El Árbol de los Susurros está sediento y pide otro favor. Cosecha motas venosas de enemigos asesinados y ofrécelas en el altar de recolección."
     },
@@ -2777,6 +2825,46 @@
     "events:Bounty_Ritual_Tier2_Scos_Highlands@-63.97025,131.12605": {
       "name": "Ritual: Tierras Altas Salvajes",
       "description": "La influencia del Árbol de los Susurros ha menguado en esta zona. Lleva a cabo una serie de rituales para que vuelva a controlar esta tierra."
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Scos_Moors_VampireElites@-54.23242,135.75836": {
+      "name": "Cull Shrouded Moors Vampires",
+      "description": "The Vampires' reckless use of blood magicks is tainting the Tree's soil. Exterminate their leadership and drive them from these lands. "
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Scos_Moors_VampireSwarm@-54.23242,135.75836": {
+      "name": "Cull Shrouded Moors Ghouls",
+      "description": "The Vampires' Ghoul swarms threaten to consume every living being left in these lands. Obliterate their hordes before it's too late."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Moors_Rescue@-54.33306,133.8639": {
+      "name": "Rescue Shrouded Moors Villagers",
+      "description": "The Vampires' dark rituals are fueled by vast quantities of fresh blood. Find and rescue those who would be consumed."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Moors_Structures@-54.33306,133.8639": {
+      "name": "Raze Shrouded Moors Structures",
+      "description": "The Vampire seek to create a permanent presence in these lands. Destroy any grotesque fixtures they have erected."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Moors_BloodSeeker@-55.76282,134.78055": {
+      "name": "Slay Shrouded Moors Blood Seekers",
+      "description": "There are champions among the Vampires that wield undeserved power. Lure them out at a Sanguine Altar and bring their heads to the Tree."
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Scos_Highlands_VampireElites@-65.606,139.89285": {
+      "name": "Cull Highland Wilds Vampires",
+      "description": "The Vampires' reckless use of blood magicks is tainting the Tree's soil. Exterminate their leadership and drive them from these lands. "
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Scos_Highlands_VampireSwarm@-65.606,139.89285": {
+      "name": "Cull Highland Wilds Ghouls",
+      "description": "The Vampires' Ghoul swarms threaten to consume every living being left in these lands. Obliterate their hordes before it's too late."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Highlands_Rescue@-65.30827,138.44156": {
+      "name": "Rescue Highland Wilds Villagers",
+      "description": "The Vampires' dark rituals are fueled by vast quantities of fresh blood. Find and rescue those who would be consumed."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Highlands_Structures@-65.30827,138.44156": {
+      "name": "Raze Highland Wilds Structures",
+      "description": "The Vampire seek to create a permanent presence in these lands. Destroy any grotesque fixtures they have erected."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Highlands_BloodSeeker@-66.61892,138.90063": {
+      "name": "Slay Highland Wilds Blood Seekers",
+      "description": "There are champions among the Vampires that wield undeserved power. Lure them out at a Sanguine Altar and bring their heads to the Tree."
     },
     "events:Bounty_Assassinate_Tier1_Kehj_DemonSuccubus_Breadcrumb@-129.71187,43.53802": {
       "name": "Despojador Infernato",
@@ -3564,7 +3652,7 @@
     "cellars:OWC_Frac_TundraSouth_03@-78.4814,109.8682": {
       "name": "Mina Escarchada"
     },
-    "cellars:OWC_Frac_TundraSouth_01@-75.17507,125.79458": {
+    "cellars:OWC_Frac_TundraSouth_01@-75.18668,125.79974": {
       "name": "Escondrijo del Apostador"
     },
     "cellars:OWC_Frac_TundraNorth_03@-98.25208,144.67811": {
@@ -4515,7 +4603,7 @@
       "name": "Kor Dragan",
       "description": "Antaño bastión de los Caballeros Penitentes, esta fortaleza desacralizada está abandonada"
     },
-    "campaignQuests:CMP_Frac_Malnok@-93.62931,140.48901": {
+    "campaignQuests:CMP_Frac_Malnok@-93.24213,141.74701": {
       "name": "Malnok",
       "description": "Un asentamiento en el hielo asediado por una ventisca incesante"
     },
@@ -5353,7 +5441,7 @@
       "name": "Trato mortífero",
       "description": "Un mercader desgraciado no puede completar su próximo envío."
     },
-    "sideQuests:QST_Kehj_GeaKul_FetchMinor_07@-143.68847,28.83114": {
+    "sideQuests:QST_Kehj_GeaKul_FetchMinor_07@-147.95872,29.181": {
       "name": "Fortuna sin fin",
       "description": "Un goblin del tesoro ha soltado un diario que pertenece a un tal Ostaf. Creo que hay un comerciante con ese nombre en Gea Kul. Debería devolvérselo."
     },
@@ -5749,7 +5837,7 @@
       "name": "Corazón abrasado",
       "description": "La Reina de las Arañas ha acabado con su última víctima."
     },
-    "sideQuests:QST_Step_KedBardu_FetchMinor_01@-69.91717,64.22267": {
+    "sideQuests:QST_Step_KedBardu_FetchMinor_01@-69.97893,64.43427": {
       "name": "Hambruna de los ladrones",
       "description": "El pueblo pasa hambre mientras los bandidos saquean la comida de las caravanas que se dirigen a Ked Bardu."
     },
@@ -6840,7 +6928,7 @@
     "healers:Scos_Coast@-33.21329,88.26384": {
       "name": "[fs]Kiereen"
     },
-    "healers:Scos_Highlands@-62.06204,129.22428": {
+    "healers:Scos_Highlands@-62.06583,129.22521": {
       "name": "[ms]Aidraig"
     },
     "healers:Scos_Hills@-41.65072,106.06359": {

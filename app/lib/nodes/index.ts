@@ -5,6 +5,7 @@ import { campaignDungeons } from "./campaignDungeons";
 import { campaignQuests } from "./campaignQuests";
 import { cellars } from "./cellars";
 import { chestAny } from "./chestAny";
+import { chestGuardian } from "./chestGuardian";
 import { chestT1 } from "./chestT1";
 import { chestT2 } from "./chestT2";
 import { chestT3 } from "./chestT3";
@@ -42,6 +43,7 @@ export const spawnNodes = {
   chestsT1: chestT1,
   chestsT2: chestT2,
   chestsT3: chestT3,
+  chestGuardian: chestGuardian,
   harbingers: harbinger,
   highValueTargets: highValueTarget,
   banditMonsters,

@@ -95,9 +95,9 @@ export const healers = [
     y: 88.26384,
   },
   {
-    id: "healers:Scos_Highlands@-62.06204,129.22428",
-    x: -62.06204,
-    y: 129.22428,
+    id: "healers:Scos_Highlands@-62.06583,129.22521",
+    x: -62.06583,
+    y: 129.22521,
   },
   {
     id: "healers:Scos_Hills@-41.65072,106.06359",

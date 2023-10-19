@@ -276,7 +276,7 @@
       "name": "Eastern Pass",
       "description": "Dexterity +2"
     },
-    "altars:Frac_Taiga_S_Prologue_Woods@-107.51272,105.63763": {
+    "altars:Frac_Taiga_S_Prologue_Woods@-107.48478,105.58286": {
       "name": "Icehowl Taiga",
       "description": "Strength +2"
     },
@@ -726,31 +726,31 @@
       "name": "Cull Untamed Scarps Skeletons",
       "description": "The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite."
     },
-    "events:Bounty_Harvest_Tier2_Step_Central@-87.25674,82.58935": {
+    "events:Bounty_Harvest_Tier2_Step_Central@-78.72625,75.8856": {
       "name": "Harvest: Khargai Crags",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Step_Coast@-93.05912,36.13587": {
+    "events:Bounty_Harvest_Tier2_Step_Coast@-94.33197,41.53392": {
       "name": "Harvest: The Scarred Coast",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Step_Eastern@-97.37943,93.58107": {
+    "events:Bounty_Harvest_Tier2_Step_Eastern@-103.9869,88.58837": {
       "name": "Harvest: The Accursed Wastes",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Step_Grasslands@-54.6236,68.81502": {
+    "events:Bounty_Harvest_Tier2_Step_Grasslands@-66.65321,66.91558": {
       "name": "Harvest: Kotama Grasslands",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Step_South@-110.24715,77.6441": {
+    "events:Bounty_Harvest_Tier2_Step_South@-106.03909,68.55379": {
       "name": "Harvest: Untamed Scarps",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Step_Volcano@-88.87259,96.91478": {
+    "events:Bounty_Harvest_Tier2_Step_Volcano@-81.03577,92.11572": {
       "name": "Harvest: Chambatar Ridge",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Step_WesternFlats@-80.85308,64.77766": {
+    "events:Bounty_Harvest_Tier2_Step_WesternFlats@-79.05765,59.0315": {
       "name": "Harvest: Dindai Flats",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
@@ -866,7 +866,7 @@
       "name": "Path of the Blind",
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
-    "events:Bounty_Dungeon_Tier3_Step_Central_OnyxHold@-81.30402,71.90502": {
+    "events:Bounty_Dungeon_Tier3_Step_Central_OnyxHold@-81.03201,72.10432": {
       "name": "Onyx Hold",
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
@@ -915,10 +915,10 @@
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_Dungeon_Tier3_Step_South_AncientsLament@-96.59047,81.14586": {
-      "name": "Ancients' Lament",
+      "name": "Ancient's Lament",
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
-    "events:Bounty_Dungeon_Tier3_Step_South_BloodsoakedCrag@-95.49018,73.14825": {
+    "events:Bounty_Dungeon_Tier3_Step_South_BloodsoakedCrag@-95.07724,72.81245": {
       "name": "Bloodsoaked Crag",
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
@@ -979,7 +979,7 @@
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_OWC_Step_Eastern_01@-96.74264,94.67921": {
-      "name": "Desolate Cellar",
+      "name": "Desolate Vault",
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_OWC_Step_Eastern_02@-101.4531,84.19307": {
@@ -1031,7 +1031,7 @@
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_OWC_Step_South_04@-102.79398,74.10308": {
-      "name": "Sun-bleached Excavation",
+      "name": "Sun-Bleached Excavation",
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_OWC_Step_Volcano_01@-83.53983,83.42636": {
@@ -1043,12 +1043,32 @@
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_OWC_Step_WesternFlats_01@-87.63412,54.41714": {
-      "name": "Cannibals Foothold",
+      "name": "Cannibals' Foothold",
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_OWC_Step_WesternFlats_02@-78.73001,61.35712": {
-      "name": "Monks Cellar",
+      "name": "Monk's Retreat",
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Step_Grassland_BloodSeeker@-64.39203,67.11795": {
+      "name": "Slay Kotama Grassland Blood Seekers",
+      "description": "There are champions among the Vampires that wield undeserved power. Lure them out at a Sanguine Altar and bring their heads to the Tree."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Step_Grassland_Rescue@-64.71262,68.74525": {
+      "name": "Rescue Kotama Grassland Villagers",
+      "description": "The Vampires' dark rituals are fueled by vast quantities of fresh blood. Find and rescue those who would be consumed."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Step_Grassland_Structures@-64.71584,68.7456": {
+      "name": "Raze Kotama Grassland Structures",
+      "description": "The Vampire seek to create a permanent presence in these lands. Destroy any grotesque fixtures they have erected."
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Step_Grassland_VampireElites@-63.25707,68.225": {
+      "name": "Cull Kotama Grassland Vampires",
+      "description": "The Vampires' reckless use of blood magicks is tainting the Tree's soil. Exterminate their leadership and drive them from these lands. "
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Step_Grassland_VampireSwarm@-63.2703,68.22536": {
+      "name": "Cull Kotama Grassland Ghouls",
+      "description": "The Vampires' Ghoul swarms threaten to consume every living being left in these lands. Obliterate their hordes before it's too late."
     },
     "events:Bounty_Assassinate_Tier1_Frac_BanditMelee_Refactor@-105.06811,113.31639": {
       "name": "Taiga Bandit Chief",
@@ -1074,7 +1094,7 @@
       "name": "Ice Clan Elder",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Frac_Skeleton2H_Refactor@-92.1343,138.03937": {
+    "events:Bounty_Assassinate_Tier1_Frac_Skeleton2H_Refactor@-92.11755,137.80293": {
       "name": "Hoarfrost Shambler",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
@@ -1107,7 +1127,7 @@
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
     "events:Bounty_Culling_Tier1_Frac_TaigaW_Spider@-88.18503,109.11606": {
-      "name": "The Pallid Glade Spiders",
+      "name": "Cull Pallid Glade Spiders",
       "description": "The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite."
     },
     "events:Bounty_Culling_Tier1_Frac_TundraS_Vampire@-77.15552,125.60816": {
@@ -1134,7 +1154,7 @@
       "name": "Harvest: Gale Valley",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Frac_Glacier@-88.19018,156.96254": {
+    "events:Bounty_Harvest_Tier2_Frac_Glacier@-89.34389,149.40085": {
       "name": "Harvest: Seat of the Heavens",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
@@ -1150,11 +1170,11 @@
       "name": "Harvest: The Pallid Glade",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Frac_TundraN@-98.6574,140.63664": {
+    "events:Bounty_Harvest_Tier2_Frac_TundraN@-94.0453,131.79171": {
       "name": "Harvest: Frigid Expanse",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Frac_TundraS@-76.17018,127.27772": {
+    "events:Bounty_Harvest_Tier2_Frac_TundraS@-84.09199,119.13411": {
       "name": "Harvest: Sarkova Pass",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
@@ -1222,7 +1242,7 @@
       "name": "Frigid Expanse Event",
       "description": "Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place."
     },
-    "events:Bounty_LE_Tier1_Frac_TundraN_LocC@-98.2773,149.71976": {
+    "events:Bounty_LE_Tier1_Frac_TundraN_LocC@-98.27745,149.71918": {
       "name": "Shivering Wilds Event",
       "description": "Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place."
     },
@@ -1263,7 +1283,7 @@
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_Dungeon_Tier3_Frac_Glacier_Zenith@-82.71946,153.53917": {
-      "name": "The Zenith",
+      "name": "Zenith",
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_Dungeon_Tier3_Frac_Glacier_KorValarRamparts@-78.4438,153.10921": {
@@ -1458,7 +1478,7 @@
       "name": "Harvest: The Writhing Mire",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Hawe_Coast@-154.97781,132.18576": {
+    "events:Bounty_Harvest_Tier2_Hawe_Coast@-153.93989,138.97145": {
       "name": "Harvest: Forsaken Coast",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
@@ -1466,15 +1486,15 @@
       "name": "Harvest: Umir Plateau",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Hawe_Delta@-143.11548,151.35017": {
+    "events:Bounty_Harvest_Tier2_Hawe_Delta@-136.46425,145.16837": {
       "name": "Harvest: Rotspill Delta",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Hawe_Fens@-157.55805,113.06643": {
+    "events:Bounty_Harvest_Tier2_Hawe_Fens@-158.3845,121.48486": {
       "name": "Harvest: Toxic Fens",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Hawe_Marsh@-128.72451,127.4491": {
+    "events:Bounty_Harvest_Tier2_Hawe_Marsh@-140.789,128.21119": {
       "name": "Harvest: Blightmarsh",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
@@ -1482,7 +1502,7 @@
       "name": "Harvest: Dismal Foothills",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Hawe_Wetland@-136.85136,110.72821": {
+    "events:Bounty_Harvest_Tier2_Hawe_Wetland@-138.43876,116.58336": {
       "name": "Harvest: Fethis Wetlands",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
@@ -1891,7 +1911,7 @@
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_OWC_Hawe_Marsh_01@-131.75475,129.70027": {
-      "name": "Slimy Cave",
+      "name": "Slimy Cavern",
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_OWC_Hawe_Marsh_02@-145.86925,131.64626": {
@@ -1934,6 +1954,26 @@
       "name": "Swamped Hideout",
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
+    "events:Bounty_S2_Vampzone_Tier2_Hawe_Coast_BloodSeeker@-151.21574,141.40863": {
+      "name": "Slay Forsaken Coast Blood Seekers",
+      "description": "There are champions among the Vampires that wield undeserved power. Lure them out at a Sanguine Altar and bring their heads to the Tree."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Hawe_Coast_Rescue@-151.21621,139.08029": {
+      "name": "Rescue Forsaken Coast Villagers",
+      "description": "The Vampires' dark rituals are fueled by vast quantities of fresh blood. Find and rescue those who would be consumed."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Hawe_Coast_Structures@-151.21621,139.08029": {
+      "name": "Raze Forsaken Coast Structures",
+      "description": "The Vampire seek to create a permanent presence in these lands. Destroy any grotesque fixtures they have erected."
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Hawe_Coast_VampireElites@-149.80589,140.28237": {
+      "name": "Cull Forsaken Coast Vampires",
+      "description": "The Vampires' reckless use of blood magicks is tainting the Tree's soil. Exterminate their leadership and drive them from these lands. "
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Hawe_Coast_VampireSwarm@-149.80589,140.28237": {
+      "name": "Cull Forsaken Coast Ghouls",
+      "description": "The Vampires' Ghoul swarms threaten to consume every living being left in these lands. Obliterate their hordes before it's too late."
+    },
     "events:Bounty_WE_Tier3_Kehj_Boss@-114.93128,74.82564": {
       "name": "World Boss",
       "description": "Ashava the Pestilent, Avarice the Gold-cursed, and the Wandering Death have occasionally been seen at this location."
@@ -1946,7 +1986,7 @@
       "name": "Legion Event",
       "description": "The forces of evil are amassing at this location. Decimate their ranks before they can fully organize."
     },
-    "events:Bounty_LE_Tier1_Kehj_PvP_CompleteAny1@-146.94664,68.07851": {
+    "events:Bounty_LE_Tier1_Kehj_PvP_CompleteAny1@-148.04037,65.12684": {
       "name": "PvP: Fields of Hatred Events",
       "description": "Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place."
     },
@@ -1958,7 +1998,7 @@
       "name": "PvP: Seething Abomination",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Harvest_Tier2_Kehj_HighDesert@-120.3736,44.32039": {
+    "events:Bounty_Harvest_Tier2_Kehj_HighDesert@-113.93239,45.78261": {
       "name": "Harvest: Amber Sands",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
@@ -1966,11 +2006,11 @@
       "name": "Harvest: Southern Expanse",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Kehj_Oasis@-119.41708,32.19658": {
+    "events:Bounty_Harvest_Tier2_Kehj_Oasis@-126.80617,33.39444": {
       "name": "Harvest: Ragged Coastline",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Kehj_Ridge@-125.56967,78.49679": {
+    "events:Bounty_Harvest_Tier2_Kehj_Ridge@-129.75244,72.47804": {
       "name": "Harvest: Scouring Sands",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
@@ -2079,7 +2119,11 @@
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_Dungeon_Tier3_Kehj_HighDesert_RaidedHalls@-110.01079,50.56952": {
-      "name": "Raided Halls",
+      "name": "Shivta Ruins",
+      "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
+    },
+    "events:Bounty_Dungeon_Tier3_Kehj_AltarOfRuin_SepulcherOfTheForsworn@-106.85585,45.08012": {
+      "name": "Sepulcher of the Forsworn",
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_Dungeon_Tier3_Kehj_LowDesert_Conclave@-138.23703,43.46635": {
@@ -2112,6 +2156,10 @@
     },
     "events:Bounty_Dungeon_Tier3_Kehj_Oasis_HereticsAsylum@-132.85894,19.00346": {
       "name": "Heretic's Asylum",
+      "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
+    },
+    "events:Bounty_Dungeon_Tier3_Step_Camp03_CrumblingHekma@-146.21747,47.86839": {
+      "name": "Crumbling Hekma",
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_Dungeon_Tier3_Kehj_Ridge_AbandonedMineworks@-138.00625,67.88752": {
@@ -2275,7 +2323,7 @@
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_OWC_Kehj_Oasis_03@-127.61889,23.55531": {
-      "name": "Sodden Cavern",
+      "name": "Sodden Burrow",
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
     "events:Bounty_OWC_Kehj_Oasis_04@-128.11062,28.59152": {
@@ -2410,11 +2458,11 @@
       "name": "Cull The Shrouded Moors Bandits",
       "description": "The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite."
     },
-    "events:Bounty_Harvest_Tier2_Scos_Coast@-38.60791,88.70717": {
+    "events:Bounty_Harvest_Tier2_Scos_Coast@-30.48503,95.40026": {
       "name": "Harvest: Northshore",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Scos_DeepForest@-54.02356,71.64203": {
+    "events:Bounty_Harvest_Tier2_Scos_DeepForest@-52.12004,80.60146": {
       "name": "Harvest: Deep Forest",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
@@ -2426,7 +2474,7 @@
       "name": "Harvest: High Forest",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Scos_Highlands@-69.7348,136.42331": {
+    "events:Bounty_Harvest_Tier2_Scos_Highlands@-64.81337,133.34243": {
       "name": "Harvest: Highland Wilds",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
@@ -2438,11 +2486,11 @@
       "name": "Harvest: Strand",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Scos_Lowlands@-55.43732,94.99923": {
+    "events:Bounty_Harvest_Tier2_Scos_Lowlands@-63.63666,97.52737": {
       "name": "Harvest: Westering Lowlands",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
-    "events:Bounty_Harvest_Tier2_Scos_Moors@-52.80438,142.32511": {
+    "events:Bounty_Harvest_Tier2_Scos_Moors@-55.64041,136.61104": {
       "name": "Harvest: The Shrouded Moors",
       "description": "The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. "
     },
@@ -2777,6 +2825,46 @@
     "events:Bounty_Ritual_Tier2_Scos_Highlands@-63.97025,131.12605": {
       "name": "Ritual: Highland Wilds",
       "description": "The Tree of Whisper's influence in this area has waned. Perform a series of rituals to put the land back under its gaze."
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Scos_Moors_VampireElites@-54.23242,135.75836": {
+      "name": "Cull Shrouded Moors Vampires",
+      "description": "The Vampires' reckless use of blood magicks is tainting the Tree's soil. Exterminate their leadership and drive them from these lands. "
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Scos_Moors_VampireSwarm@-54.23242,135.75836": {
+      "name": "Cull Shrouded Moors Ghouls",
+      "description": "The Vampires' Ghoul swarms threaten to consume every living being left in these lands. Obliterate their hordes before it's too late."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Moors_Rescue@-54.33306,133.8639": {
+      "name": "Rescue Shrouded Moors Villagers",
+      "description": "The Vampires' dark rituals are fueled by vast quantities of fresh blood. Find and rescue those who would be consumed."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Moors_Structures@-54.33306,133.8639": {
+      "name": "Raze Shrouded Moors Structures",
+      "description": "The Vampire seek to create a permanent presence in these lands. Destroy any grotesque fixtures they have erected."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Moors_BloodSeeker@-55.76282,134.78055": {
+      "name": "Slay Shrouded Moors Blood Seekers",
+      "description": "There are champions among the Vampires that wield undeserved power. Lure them out at a Sanguine Altar and bring their heads to the Tree."
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Scos_Highlands_VampireElites@-65.606,139.89285": {
+      "name": "Cull Highland Wilds Vampires",
+      "description": "The Vampires' reckless use of blood magicks is tainting the Tree's soil. Exterminate their leadership and drive them from these lands. "
+    },
+    "events:Bounty_S2_Vampzone_Tier3_Scos_Highlands_VampireSwarm@-65.606,139.89285": {
+      "name": "Cull Highland Wilds Ghouls",
+      "description": "The Vampires' Ghoul swarms threaten to consume every living being left in these lands. Obliterate their hordes before it's too late."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Highlands_Rescue@-65.30827,138.44156": {
+      "name": "Rescue Highland Wilds Villagers",
+      "description": "The Vampires' dark rituals are fueled by vast quantities of fresh blood. Find and rescue those who would be consumed."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Highlands_Structures@-65.30827,138.44156": {
+      "name": "Raze Highland Wilds Structures",
+      "description": "The Vampire seek to create a permanent presence in these lands. Destroy any grotesque fixtures they have erected."
+    },
+    "events:Bounty_S2_Vampzone_Tier2_Scos_Highlands_BloodSeeker@-66.61892,138.90063": {
+      "name": "Slay Highland Wilds Blood Seekers",
+      "description": "There are champions among the Vampires that wield undeserved power. Lure them out at a Sanguine Altar and bring their heads to the Tree."
     },
     "events:Bounty_Assassinate_Tier1_Kehj_DemonSuccubus_Breadcrumb@-129.71187,43.53802": {
       "name": "Hellborn Despoiler",
@@ -3283,6 +3371,10 @@
     "dungeons:DGN_Step_ForgottenDepths@-81.63159,62.90792": {
       "name": "Forgotten Depths",
       "description": "A shadow lies below these hallowed stones."
+    },
+    "dungeons:DGN_S02_Kehj_TombofHallows@-105.8865,43.62871": {
+      "name": "Tomb of Hallows",
+      "description": "Death is in the halls. Ancient and fresh. Dying and undying."
     }
   },
   "sideQuestDungeons": {
@@ -3307,7 +3399,8 @@
       "description": "Only Lyndon and the Drowned know of this hidden clearing."
     },
     "sideQuestDungeons:QST_Hawe_PoisonedHearts_HiddenAltar@-153.72027,141.88247": {
-      "name": "Hidden Glade"
+      "name": "Hidden Glade",
+      "description": "An ancient clearing pulsing with the magic of the swamps."
     },
     "sideQuestDungeons:QST_Kehj_LonelyWolf@-127.86986,38.47219": {
       "name": "Tunnels Beneath The Oasis",
@@ -3383,6 +3476,13 @@
     "sideQuestDungeons:QST_Frac_AncestralCall@-84.46401,143.30085": {
       "name": "The Hallowed Glacier",
       "description": "The Glacial Tunnels beneath the Bear Tribe encampment."
+    },
+    "sideQuestDungeons:QST_Frac_Lilith_Blood_03_Cellar@-87.2315,126.17584": {
+      "name": "The Elysiuma Archive"
+    },
+    "sideQuestDungeons:QST_S02_Main_01_Scos_Cellar@-54.40713,73.25573": {
+      "name": "Wayside Cave",
+      "description": "Within the small and lonesome cavern, something thirsts."
     },
     "sideQuestDungeons:QST_Template_Dungeon_KillUnique@-132.47696,62.18353": {
       "name": "Quest Dungeon Template: Kill Unique",
@@ -3564,7 +3664,7 @@
     "cellars:OWC_Frac_TundraSouth_03@-78.4814,109.8682": {
       "name": "Frosty Mine"
     },
-    "cellars:OWC_Frac_TundraSouth_01@-75.17507,125.79458": {
+    "cellars:OWC_Frac_TundraSouth_01@-75.18668,125.79974": {
       "name": "Gambler's Hideout"
     },
     "cellars:OWC_Frac_TundraNorth_03@-98.25208,144.67811": {
@@ -3781,6 +3881,10 @@
     "cellars:OWC_Kehj_Caldeum_05@-140.13235,53.92036": {
       "name": "Derelict Tunnel"
     },
+    "cellars:Boss_WT3_Varshan@-118.16301,143.7963": {
+      "name": "Malignant Burrow",
+      "description": "Ichor weeps from a hole in the earth."
+    },
     "cellars:OWC_Hawe_Crossway_03@-152.0266,91.84082": {
       "name": "Commandeered Lodge"
     },
@@ -3994,6 +4098,10 @@
       "name": "Den of the Blighted",
       "description": "Craft a Vicious Invoker to clear the outgrowths within."
     },
+    "cellars:QST_S02_Main_01_Step_Cellar@-69.86458,63.98974": {
+      "name": "Magistrate's Office",
+      "description": "Blood Money: A Magistrate calls for aid."
+    },
     "cellars:S01_MDGN_Hawe_B@-148.91263,141.04968": {
       "name": "Bedeviled Grotto",
       "description": "Craft a Vicious Invoker to clear the outgrowths within."
@@ -4001,6 +4109,30 @@
     "cellars:S01_MDGN_Step_B@-102.74936,79.3753": {
       "name": "Ravening Pit",
       "description": "Craft a Brutal Invoker to clear the outgrowths within."
+    },
+    "cellars:QST_S02_Main_07_Step_Cellar@-69.81842,64.0359": {
+      "name": "Magistrate's Office",
+      "description": "Wolves at the Door: A hitch in the plan."
+    },
+    "cellars:QST_S02_Main_02_Cellar_SafeHouse@-69.81842,64.0359": {
+      "name": "Magistrate's Office",
+      "description": "Hunter's Chase: The Magistrate must answer for this."
+    },
+    "cellars:QST_S02_Main_05_Cellar_SafeHouse@-69.81842,64.0359": {
+      "name": "Magistrate's Office",
+      "description": "A Witness in the Dust: Help comes in strange ways."
+    },
+    "cellars:QST_S02_Main_12_Cellar_SafeHouse@-69.81842,64.0359": {
+      "name": "Magistrate's Office",
+      "description": "In Your Blood: Take a breath and share the news."
+    },
+    "cellars:QST_S02_Main_03_Step_Cellar@-69.81842,64.0359": {
+      "name": "Magistrate's Office",
+      "description": "Summons of the Deathless: Know your enemy."
+    },
+    "cellars:QST_S02_Main_09_Step_Cellar@-69.81842,64.0359": {
+      "name": "Magistrate's Office",
+      "description": "Battle of Fear and Faith: The Ascension is disrupted."
     }
   },
   "aspects": {
@@ -4227,7 +4359,7 @@
       "name": "of the Expectant"
     },
     "Legendary_Sorc_012": {
-      "name": "of Static Cling"
+      "name": "of Piercing Static"
     },
     "Legendary_Generic_106": {
       "name": "Needleflare"
@@ -4555,7 +4687,7 @@
       "name": "Kor Dragan",
       "description": "Once a bastion of the Knights Penitent, this desecrated fortress stands abandoned"
     },
-    "campaignQuests:CMP_Frac_Malnok@-93.62931,140.48901": {
+    "campaignQuests:CMP_Frac_Malnok@-93.24213,141.74701": {
       "name": "Malnok",
       "description": "An icebound settlement besieged by a ceaseless blizzard"
     },
@@ -5027,7 +5159,7 @@
     },
     "sideQuests:QST_Craft_Jeweler_01@-92.59866,122.97": {
       "name": "Gem Crafting",
-      "description": "Jewelers can craft or unsocket gems, add sockets to items, and upgrade jewelry.\r\n\r\nSeek out Kratia in Kyovashad and craft a gem."
+      "description": "Craft a Gem"
     },
     "sideQuests:QST_Craft_Occultist_01@-92.89589,122.40849": {
       "name": "Sigil Crafting",
@@ -5112,6 +5244,18 @@
     "sideQuests:QST_Frac_Inheritance_02@-81.90287,113.43422": {
       "name": "Legacy Unmade",
       "description": "Find Parin near the Sanctified Study to sunder the cursed axe. "
+    },
+    "sideQuests:QST_Frac_Lilith_Blood_01@-92.82883,124.72371": {
+      "name": "Blood of the Mother",
+      "description": "Search Nevesk for evidence of possession."
+    },
+    "sideQuests:QST_Frac_Lilith_Blood_02@-105.54403,109.30973": {
+      "name": "Shroud of the Father",
+      "description": "Bring Inarius' token of favor back  to Voszalko."
+    },
+    "sideQuests:QST_Frac_Lilith_Blood_03@-92.82883,124.72371": {
+      "name": "Severing the Bond",
+      "description": "Priest Voszalko awaits the opportunity to cleanse your corruption."
     },
     "sideQuests:QST_Frac_MaladyOfTheSoul@-94.71561,125.14777": {
       "name": "Malady of the Soul",
@@ -5383,7 +5527,7 @@
     },
     "sideQuests:QST_Kehj_Caldeum_Remnants@-133.21202,45.18539": {
       "name": "Remnants",
-      "description": "Hidden under rubble was an alternative entrance to where Hader has fled. I should follow after. "
+      "description": "The old letter found on the tortured corpse said there was to be a rendezvous by the Caldeum bazaar. I should go see if this Hader is still waiting. "
     },
     "sideQuests:QST_Kehj_Caldeum_SecretEmote_02@-123.08794,46.61396": {
       "name": "In Desperate Times",
@@ -5397,7 +5541,7 @@
       "name": "Deadly Trade",
       "description": "A hapless merchant can’t fulfill his next shipment."
     },
-    "sideQuests:QST_Kehj_GeaKul_FetchMinor_07@-143.68847,28.83114": {
+    "sideQuests:QST_Kehj_GeaKul_FetchMinor_07@-147.95872,29.181": {
       "name": "Endless Fortune",
       "description": "Return the journal to Ostaf"
     },
@@ -5833,7 +5977,7 @@
       "name": "Blistered Heart",
       "description": "The Spider Queen has taken her last victim. "
     },
-    "sideQuests:QST_Step_KedBardu_FetchMinor_01@-69.91717,64.22267": {
+    "sideQuests:QST_Step_KedBardu_FetchMinor_01@-69.97893,64.43427": {
       "name": "Thieves' Famine",
       "description": "The people starve as bandits plunder food from caravans bound for Ked Bardu."
     },
@@ -6011,6 +6155,74 @@
     },
     "waypoints:LevelArea_Step_Jirandai@-110.64464,64.43191": {
       "name": "Jirandai"
+    }
+  },
+  "demonMonsters": {
+    "Actor_Demon_mega_unique_FrostT4Boss": {
+      "name": "The Beast in the Ice"
+    },
+    "Actor_demon_mega_phys": {
+      "name": "Oppressor"
+    },
+    "Actor_demon_spitter_phys": {
+      "name": "Bilefiend"
+    },
+    "Actor_demon_brute_fire": {
+      "name": "Annihilator"
+    },
+    "Actor_demon_mega_fire": {
+      "name": "Balrog"
+    },
+    "Actor_demon_spitter_fire": {
+      "name": "Sin Eater"
+    },
+    "Actor_demon_succubus_fire": {
+      "name": "Soul Burner"
+    },
+    "Actor_demon_mega_unique_QST_Kehj_Caldeum_01": {
+      "name": "Uznu the Annihilator"
+    },
+    "Actor_demon_swarmer_phys": {
+      "name": "Flesh Thresher"
+    },
+    "Actor_demon_succubus_phys": {
+      "name": "Succubus"
+    },
+    "Actor_demon_butcher_miniboss": {
+      "name": "The Butcher"
+    },
+    "Actor_demon_swarmer_fire": {
+      "name": "Spawn of the Damned"
+    },
+    "Actor_demon_mega_shadow_unique_ACD_RareSpawn": {
+      "name": "Almunn"
+    },
+    "Actor_demon_mega_unique_Camp_Scos_TurDulra": {
+      "name": "Baelgemoth"
+    },
+    "Actor_demon_swarmer_drys_unique_CMP_QaraYisu1": {
+      "name": "Cursed Yisuni"
+    },
+    "Actor_demon_spitter_drys_unique_CMP_QaraYisu1": {
+      "name": "Cursed Yisuni"
+    },
+    "Actor_demon_swarmer_drys_unique_CMP_QaraYisu3": {
+      "name": "Cursed Yisuni"
+    },
+    "Actor_demon_swarmer_drys_unique_CMP_QaraYisu2": {
+      "name": "Cursed Yisuni"
+    },
+    "Actor_demon_spitter_drys_unique_CMP_QaraYisu2": {
+      "name": "Cursed Yisuni"
+    },
+    "Actor_demon_spitter_drys_unique_CMP_QaraYisu3": {
+      "name": "Cursed Yisuni"
+    },
+    "Actor_demon_mega_lightning": {
+      "name": "Pit Lord"
+    },
+    "Actor_demon_mega_unique_ACD_ZE_Invasion_Demon_DemonCaptain": {
+      "name": "Servant of Hell"
     }
   },
   "cannibalMonsters": {
@@ -6547,6 +6759,9 @@
     "Actor_knight_monk_cold": {
       "name": "Cleric"
     },
+    "Actor_Knight_Melee_NPC_Ambient": {
+      "name": "Knight Penitent "
+    },
     "Actor_knight_melee_unique_CMP_crusadersmon_elite_ghost": {
       "name": "Sir Thom"
     },
@@ -6700,71 +6915,6 @@
     },
     "Actor_bandit_melee_bomb_poison": {
       "name": "Plaguebearer"
-    }
-  },
-  "demonMonsters": {
-    "Actor_demon_mega_phys": {
-      "name": "Oppressor"
-    },
-    "Actor_demon_spitter_phys": {
-      "name": "Bilefiend"
-    },
-    "Actor_demon_brute_fire": {
-      "name": "Annihilator"
-    },
-    "Actor_demon_mega_fire": {
-      "name": "Balrog"
-    },
-    "Actor_demon_spitter_fire": {
-      "name": "Sin Eater"
-    },
-    "Actor_demon_succubus_fire": {
-      "name": "Soul Burner"
-    },
-    "Actor_demon_mega_unique_QST_Kehj_Caldeum_01": {
-      "name": "Uznu the Annihilator"
-    },
-    "Actor_demon_swarmer_phys": {
-      "name": "Flesh Thresher"
-    },
-    "Actor_demon_succubus_phys": {
-      "name": "Succubus"
-    },
-    "Actor_demon_butcher_miniboss": {
-      "name": "The Butcher"
-    },
-    "Actor_demon_swarmer_fire": {
-      "name": "Spawn of the Damned"
-    },
-    "Actor_demon_mega_shadow_unique_ACD_RareSpawn": {
-      "name": "Almunn"
-    },
-    "Actor_demon_mega_unique_Camp_Scos_TurDulra": {
-      "name": "Baelgemoth"
-    },
-    "Actor_demon_swarmer_drys_unique_CMP_QaraYisu1": {
-      "name": "Cursed Yisuni"
-    },
-    "Actor_demon_spitter_drys_unique_CMP_QaraYisu1": {
-      "name": "Cursed Yisuni"
-    },
-    "Actor_demon_swarmer_drys_unique_CMP_QaraYisu3": {
-      "name": "Cursed Yisuni"
-    },
-    "Actor_demon_swarmer_drys_unique_CMP_QaraYisu2": {
-      "name": "Cursed Yisuni"
-    },
-    "Actor_demon_spitter_drys_unique_CMP_QaraYisu2": {
-      "name": "Cursed Yisuni"
-    },
-    "Actor_demon_spitter_drys_unique_CMP_QaraYisu3": {
-      "name": "Cursed Yisuni"
-    },
-    "Actor_demon_mega_lightning": {
-      "name": "Pit Lord"
-    },
-    "Actor_demon_mega_unique_ACD_ZE_Invasion_Demon_DemonCaptain": {
-      "name": "Servant of Hell"
     }
   },
   "zombieMonsters": {
@@ -6924,7 +7074,7 @@
     "healers:Scos_Coast@-33.21329,88.26384": {
       "name": "Kiereen"
     },
-    "healers:Scos_Highlands@-62.06204,129.22428": {
+    "healers:Scos_Highlands@-62.06583,129.22521": {
       "name": "Aidraig"
     },
     "healers:Scos_Hills@-41.65072,106.06359": {
@@ -7001,6 +7151,9 @@
   "occultists": {
     "occultists:Frac_Kyovashad@-92.50752,122.04089": {
       "name": "Demyan"
+    },
+    "occultists:Hawe_Bog@-118.32753,142.05587": {
+      "name": "Demyan, Seeker of Knowledge"
     },
     "occultists:Hawe_Zarbinzet@-146.02876,89.57781": {
       "name": "Vladan"

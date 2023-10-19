@@ -120,6 +120,21 @@ export const sideQuests = [
     y: 113.43422,
   },
   {
+    id: "sideQuests:QST_Frac_Lilith_Blood_01@-92.82883,124.72371",
+    x: -92.82883,
+    y: 124.72371,
+  },
+  {
+    id: "sideQuests:QST_Frac_Lilith_Blood_02@-105.54403,109.30973",
+    x: -105.54403,
+    y: 109.30973,
+  },
+  {
+    id: "sideQuests:QST_Frac_Lilith_Blood_03@-92.82883,124.72371",
+    x: -92.82883,
+    y: 124.72371,
+  },
+  {
     id: "sideQuests:QST_Frac_MaladyOfTheSoul@-94.71561,125.14777",
     x: -94.71561,
     y: 125.14777,
@@ -475,9 +490,9 @@ export const sideQuests = [
     y: 29.72726,
   },
   {
-    id: "sideQuests:QST_Kehj_GeaKul_FetchMinor_07@-143.68847,28.83114",
-    x: -143.68847,
-    y: 28.83114,
+    id: "sideQuests:QST_Kehj_GeaKul_FetchMinor_07@-147.95872,29.181",
+    x: -147.95872,
+    y: 29.181,
   },
   {
     id: "sideQuests:QST_Kehj_HighDesert_Infection_01@-118.48353,43.69123",
@@ -1020,9 +1035,9 @@ export const sideQuests = [
     y: 65.99924,
   },
   {
-    id: "sideQuests:QST_Step_KedBardu_FetchMinor_01@-69.91717,64.22267",
-    x: -69.91717,
-    y: 64.22267,
+    id: "sideQuests:QST_Step_KedBardu_FetchMinor_01@-69.97893,64.43427",
+    x: -69.97893,
+    y: 64.43427,
   },
   {
     id: "sideQuests:QST_Step_NoDeedUnpunished@-73.0675,72.27642",
