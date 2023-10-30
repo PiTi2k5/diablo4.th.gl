@@ -47,7 +47,7 @@ export default function NitroPay() {
       }
 
       const response = await fetch(
-        `${PATREON_BASE_URI}/api/patreon?appId=fgbodfoepckgplklpccjedophlahnjemfdknhfce`,
+        `${PATREON_BASE_URI}/api/patreon?appId=olbbpfjombddiijdbjeeegeclifleaifdeonllfd`,
         { credentials: "include" }
       );
       try {
