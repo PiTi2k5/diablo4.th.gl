@@ -1,5 +1,7 @@
+import Cookies from "js-cookie";
 import Script from "next/script";
 import { useEffect, useState } from "react";
+import { PATREON_BASE_URI } from "../lib/env";
 import { useAccountStore } from "../lib/storage/account";
 import TwitchEmbed from "./twitch-embed";
 
@@ -30,11 +32,58 @@ window.nitroAds = window.nitroAds || {
 };
 
 export default function NitroPay() {
-  const isPatron = useAccountStore((state) => state.isPatron);
+  const accountStore = useAccountStore();
   const [showFallback, setShowFallback] = useState<boolean | null>(null);
 
   useEffect(() => {
-    if (showFallback === false || isPatron) {
+    let userId = Cookies.get("userId");
+    const refreshState = async () => {
+      if (!userId) {
+        const state = useAccountStore.getState();
+        if (state.isPatron) {
+          accountStore.setIsPatron(false);
+        }
+        return;
+      }
+
+      const response = await fetch(
+        `${PATREON_BASE_URI}/api/patreon?appId=fgbodfoepckgplklpccjedophlahnjemfdknhfce`,
+        { credentials: "include" }
+      );
+      try {
+        const body = await response.json();
+        if (!response.ok) {
+          console.warn(body);
+          accountStore.setIsPatron(false);
+        } else {
+          console.log(`Patreon successfully activated`);
+          accountStore.setIsPatron(true, userId);
+        }
+      } catch (err) {
+        console.error(err);
+        accountStore.setIsPatron(false);
+      }
+    };
+    refreshState();
+
+    const handleVisibilityChange = () => {
+      if (document.visibilityState === "visible") {
+        const newUserId = Cookies.get("userId");
+        if (newUserId !== userId) {
+          userId = newUserId;
+          refreshState();
+        }
+      }
+    };
+
+    document.addEventListener("visibilitychange", handleVisibilityChange);
+    return () => {
+      document.removeEventListener("visibilitychange", handleVisibilityChange);
+    };
+  }, []);
+
+  useEffect(() => {
+    if (showFallback === false || accountStore.isPatron) {
       return;
     }
     const timeoutId = setTimeout(() => {
@@ -46,7 +95,7 @@ export default function NitroPay() {
     };
   }, [showFallback]);
 
-  if (isPatron) {
+  if (accountStore.isPatron) {
     return <></>;
   }
 

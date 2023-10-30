@@ -2,7 +2,6 @@
 import dynamic from "next/dynamic";
 import AppSettings from "../(overwolf)/components/app-settings";
 import { useOverwolfRouter } from "../(overwolf)/components/overwolf-router";
-import { API_BASE_URI, PATREON_CLIENT_ID_V2 } from "../lib/env";
 import { useAccountStore } from "../lib/storage/account";
 import { useGlobalSettingsStore } from "../lib/storage/global-settings";
 import { useDict } from "./(i18n)/i18n-provider";
@@ -22,6 +21,10 @@ const Territories = dynamic(() => import("./territories"), {
 });
 
 const DISCOVER_LINKS = [
+  {
+    href: "https://mobalytics.gg/diablo-4/?ref=diablo4.th.gl",
+    text: "Diablo 4 Builds, Guides & More",
+  },
   {
     href: "https://www.d4ut.net/?ref=diablo4.th.gl",
     text: "Diablo 4 Build Calculator",
@@ -87,26 +90,12 @@ export default function Menu() {
                 {dict.menu.patronInfo}
               </p>
               <a
-                href="https://www.patreon.com/join/devleon/checkout?rid=9878731"
+                href="https://www.th.gl/support-me"
                 target="_blank"
-                className="mt-1 p-2 uppercase text-center bg-white text-[#ff424d] hover:bg-gray-100"
+                className="my-1 p-2 text-center uppercase text-white bg-[#ff424d] hover:bg-[#ca0f25]"
               >
                 {dict.menu.becomePatron}
               </a>
-              <button
-                onClick={() => {
-                  if (isOverwolf) {
-                    overwolf.utils.openUrlInDefaultBrowser(
-                      `${API_BASE_URI}/patreon`
-                    );
-                  } else {
-                    location.href = `https://www.patreon.com/oauth2/authorize?response_type=code&client_id=${PATREON_CLIENT_ID_V2}&redirect_uri=${API_BASE_URI}`;
-                  }
-                }}
-                className="my-1 p-2 uppercase text-white bg-[#ff424d] hover:bg-[#ca0f25]"
-              >
-                {dict.menu.linkPatreon}
-              </button>
             </>
           )}
           <h2 className="category-title">{dict.menu.settings}</h2>
