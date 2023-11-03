@@ -16,8 +16,8 @@ export const useAccountStore = create(
     }),
     {
       name: "account-storage",
-    }
-  )
+    },
+  ),
 );
 
 withStorageDOMEvents(useAccountStore);

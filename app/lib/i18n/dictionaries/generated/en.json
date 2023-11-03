@@ -642,7 +642,7 @@
     }
   },
   "events": {
-    "events:Bounty_Assassinate_Tier1_Step_Cannibal2H_Refactor@-86.58343,56.5454": {
+    "events:Bounty_Assassinate_Tier1_Step_Cannibal2H_Refactor@-87.38977,56.97469": {
       "name": "Ravager of Dindai",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
@@ -650,11 +650,11 @@
       "name": "Bastard of Guulrahn",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Step_CannibalBrute_Refactor@-96.30845,68.61082": {
+    "events:Bounty_Assassinate_Tier1_Step_CannibalBrute_Refactor@-97.41972,68.8041": {
       "name": "Insatiable Blade",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Step_CultistBrute_Refactor@-79.15859,99.10064": {
+    "events:Bounty_Assassinate_Tier1_Step_CultistBrute_Refactor@-78.52463,100.58202": {
       "name": "Speaker of Fel Flames",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
@@ -662,43 +662,43 @@
       "name": "Lord of Ashes",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Step_DemonMega_Refactor@-73.5973,73.70689": {
+    "events:Bounty_Assassinate_Tier1_Step_DemonMega_Refactor@-74.5413,73.27276": {
       "name": "Sins of the Carver",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Step_DemonSpitter_Refactor@-70.61625,84.91859": {
+    "events:Bounty_Assassinate_Tier1_Step_DemonSpitter_Refactor@-71.54168,84.5094": {
       "name": "Mongrel of Rakinishu",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Step_DemonSuccubus_Refactor@-103.62992,96.40867": {
+    "events:Bounty_Assassinate_Tier1_Step_DemonSuccubus_Refactor@-104.47667,95.56192": {
       "name": "Mistress of the Wastes",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Step_GhostMelee_Refactor@-90.45001,39.89782": {
+    "events:Bounty_Assassinate_Tier1_Step_GhostMelee_Refactor@-90.11431,39.87356": {
       "name": "Immortal Spirit",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Step_MaggotBrute_Refactor@-63.42427,59.30017": {
+    "events:Bounty_Assassinate_Tier1_Step_MaggotBrute_Refactor@-64.60009,58.9609": {
       "name": "Festering Sand Queen",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Step_SkeletonMelee_Refactor@-71.74666,56.90517": {
+    "events:Bounty_Assassinate_Tier1_Step_SkeletonMelee_Refactor@-72.74372,56.65878": {
       "name": "Salt Drinker",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Step_SpiderHost_Refactor@-82.71384,58.79814": {
+    "events:Bounty_Assassinate_Tier1_Step_SpiderHost_Refactor@-83.33216,59.41646": {
       "name": "Salt Pan Goliath",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Step_SpiderAdult_Refactor@-96.85005,79.48153": {
+    "events:Bounty_Assassinate_Tier1_Step_SpiderAdult_Refactor@-97.94304,80.38431": {
       "name": "Bloodmuck Matron",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Step_ZombieBrute_Refactor@-85.53703,37.54093": {
+    "events:Bounty_Assassinate_Tier1_Step_ZombieBrute_Refactor@-87.9472,38.10626": {
       "name": "Purulent Captain",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Step_BanditAmbusher_Refactor@-67.07338,77.1436": {
+    "events:Bounty_Assassinate_Tier1_Step_BanditAmbusher_Refactor@-67.64218,77.15423": {
       "name": "Quick Blade",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
@@ -1070,11 +1070,11 @@
       "name": "Cull Kotama Grassland Ghouls",
       "description": "The Vampires' Ghoul swarms threaten to consume every living being left in these lands. Obliterate their hordes before it's too late."
     },
-    "events:Bounty_Assassinate_Tier1_Frac_BanditMelee_Refactor@-105.06811,113.31639": {
+    "events:Bounty_Assassinate_Tier1_Frac_BanditMelee_Refactor@-104.74412,112.9924": {
       "name": "Taiga Bandit Chief",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Frac_BanditRanged_Refactor@-97.94265,127.51751": {
+    "events:Bounty_Assassinate_Tier1_Frac_BanditRanged_Refactor@-97.59629,127.86387": {
       "name": "Taiga Ranger",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
@@ -1082,11 +1082,11 @@
       "name": "Ice Carver",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Frac_GhostCaster_Refactor@-88.71676,118.13491": {
+    "events:Bounty_Assassinate_Tier1_Frac_GhostCaster_Refactor@-87.21963,118.81609": {
       "name": "Highway Haunter",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Frac_GoatmanRanged_Refactor@-94.38767,113.48459": {
+    "events:Bounty_Assassinate_Tier1_Frac_GoatmanRanged_Refactor@-94.52827,114.04597": {
       "name": "Ice Clan Woodstalker",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
@@ -1094,11 +1094,11 @@
       "name": "Ice Clan Elder",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Frac_Skeleton2H_Refactor@-92.11755,137.80293": {
+    "events:Bounty_Assassinate_Tier1_Frac_Skeleton2H_Refactor@-92.55218,136.82781": {
       "name": "Hoarfrost Shambler",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Frac_FallenCaster_Refactor@-102.53597,117.83299": {
+    "events:Bounty_Assassinate_Tier1_Frac_FallenCaster_Refactor@-101.94165,117.23868": {
       "name": "Shivering Magus",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
@@ -1110,7 +1110,7 @@
       "name": "Butcher of Tsepilova",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Frac_VampireCaster_Refactor@-92.59855,152.47589": {
+    "events:Bounty_Assassinate_Tier1_Frac_VampireCaster_Refactor@-93.83398,152.33234": {
       "name": "Lord of Frozen Plains",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
@@ -1118,11 +1118,11 @@
       "name": "Fiend of Yelesna",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Frac_WerewolfMelee_Refactor@-105.4461,128.51894": {
+    "events:Bounty_Assassinate_Tier1_Frac_WerewolfMelee_Refactor@-105.39661,129.61085": {
       "name": "Beast of Krol",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Frac_WerewolfProwler_Refactor@-101.30217,104.28285": {
+    "events:Bounty_Assassinate_Tier1_Frac_WerewolfProwler_Refactor@-100.87361,103.83998": {
       "name": "Stalker of the Drifts",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
@@ -1610,55 +1610,55 @@
       "name": "Legion Event",
       "description": "The forces of evil are amassing at this location. Decimate their ranks before they can fully organize."
     },
-    "events:Bounty_Assassinate_Tier1_Hawe_CultistMelee_Refactor@-132.78001,128.82729": {
+    "events:Bounty_Assassinate_Tier1_Hawe_CultistMelee_Refactor@-133.16486,129.93449": {
       "name": "Serpent's Edge",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Hawe_CultistSummoner_Refactor@-123.00242,138.42683": {
+    "events:Bounty_Assassinate_Tier1_Hawe_CultistSummoner_Refactor@-122.72795,138.15236": {
       "name": "Scalespeaker",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Hawe_DemonSuccubus_Refactor@-138.80537,147.24328": {
+    "events:Bounty_Assassinate_Tier1_Hawe_DemonSuccubus_Refactor@-138.97246,147.84761": {
       "name": "Swamp Hexxer",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Hawe_DrownedBrute_Refactor@-127.18688,150.38638": {
+    "events:Bounty_Assassinate_Tier1_Hawe_DrownedBrute_Refactor@-126.67586,149.87536": {
       "name": "Flotsam King",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Hawe_DrownedMelee_Refactor@-148.5813,138.29316": {
+    "events:Bounty_Assassinate_Tier1_Hawe_DrownedMelee_Refactor@-147.63935,139.00827": {
       "name": "Cursed Mutineer",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Hawe_DrownedMini_Refactor@-158.17719,142.06771": {
+    "events:Bounty_Assassinate_Tier1_Hawe_DrownedMini_Refactor@-158.86096,142.42659": {
       "name": "Gibbering Dead",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Hawe_BanditMeleeBomb_Refactor@-142.93021,119.18725": {
+    "events:Bounty_Assassinate_Tier1_Hawe_BanditMeleeBomb_Refactor@-143.52438,119.40573": {
       "name": "Mad Bomber",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Hawe_ZombieBrute_Refactor@-143.05869,108.33042": {
+    "events:Bounty_Assassinate_Tier1_Hawe_ZombieBrute_Refactor@-146.01681,109.14114": {
       "name": "Devoured One",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Hawe_KnightBrute_Refactor@-139.65701,96.23573": {
+    "events:Bounty_Assassinate_Tier1_Hawe_KnightBrute_Refactor@-139.77577,95.98101": {
       "name": "Lost Pilgrim",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Hawe_SnakeBrute_Refactor@-128.96645,137.59759": {
+    "events:Bounty_Assassinate_Tier1_Hawe_SnakeBrute_Refactor@-128.34477,137.41815": {
       "name": "Shadow in the Reeds",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Hawe_SnakeCaster_Refactor@-148.35689,128.65619": {
+    "events:Bounty_Assassinate_Tier1_Hawe_SnakeCaster_Refactor@-148.0783,128.93478": {
       "name": "Scaled Siren",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Hawe_Skeleton2H_Refactor@-116.79344,125.32296": {
+    "events:Bounty_Assassinate_Tier1_Hawe_Skeleton2H_Refactor@-117.24363,124.61529": {
       "name": "Arbor Eater",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Hawe_SpiderHost_Refactor@-158.94608,129.08409": {
+    "events:Bounty_Assassinate_Tier1_Hawe_SpiderHost_Refactor@-158.64087,128.77888": {
       "name": "Consort of Arachyr",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
@@ -1666,7 +1666,7 @@
       "name": "Flesh Gorger",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Hawe_GhostRanged_Refactor@-131.86657,91.33664": {
+    "events:Bounty_Assassinate_Tier1_Hawe_GhostRanged_Refactor@-131.93924,90.99611": {
       "name": "Spectral Assassin",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
@@ -2050,11 +2050,11 @@
       "name": "Savage Pupil",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Kehj_SpiderAdult_Refactor@-119.53344,71.51637": {
+    "events:Bounty_Assassinate_Tier1_Kehj_SpiderAdult_Refactor@-118.66193,70.64487": {
       "name": "Desert's Kiss",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Kehj_DemonSpitter_Refactor@-139.88837,40.89832": {
+    "events:Bounty_Assassinate_Tier1_Kehj_DemonSpitter_Refactor@-139.95775,39.99797": {
       "name": "Triune Dark Spawn",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
@@ -2062,19 +2062,19 @@
       "name": "Briny Corsair",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Kehj_FallenBrute_Refactor@-111.11022,53.98531": {
+    "events:Bounty_Assassinate_Tier1_Kehj_FallenBrute_Refactor@-112.88958,54.22582": {
       "name": "Dune Pounder",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Kehj_SkeletonShield_Refactor@-123.28895,29.29035": {
+    "events:Bounty_Assassinate_Tier1_Kehj_SkeletonShield_Refactor@-123.55988,28.74799": {
       "name": "Bleached Bulwark",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Kehj_GoatmanMelee_Refactor@-150.9641,44.32691": {
+    "events:Bounty_Assassinate_Tier1_Kehj_GoatmanMelee_Refactor@-151.37003,44.73284": {
       "name": "Moonclan Rockhoof",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Kehj_ZombieMelee_Refactor@-130.08466,64.15283": {
+    "events:Bounty_Assassinate_Tier1_Kehj_ZombieMelee_Refactor@-129.87663,65.00126": {
       "name": "The Ever-Parched",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
@@ -2358,15 +2358,15 @@
       "name": "Groundskeeper's Shed",
       "description": "Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance."
     },
-    "events:Bounty_Assassinate_Tier1_Scos_BanditAmbusher_Refactor@-56.12527,126.37107": {
+    "events:Bounty_Assassinate_Tier1_Scos_BanditAmbusher_Refactor@-56.66205,126.42768": {
       "name": "Silent Knife",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Scos_BanditMelee_Refactor@-45.26955,101.41069": {
+    "events:Bounty_Assassinate_Tier1_Scos_BanditMelee_Refactor@-45.2741,99.92534": {
       "name": "Deranged Lumberjack",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Scos_DrownedBrute_Refactor@-22.32637,105.32075": {
+    "events:Bounty_Assassinate_Tier1_Scos_DrownedBrute_Refactor@-22.55358,104.74647": {
       "name": "The Mastbreaker",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
@@ -2374,19 +2374,19 @@
       "name": "Sputtering Madman",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Scos_DrownedRanged_Refactor@-28.32855,88.92578": {
+    "events:Bounty_Assassinate_Tier1_Scos_DrownedRanged_Refactor@-27.92995,88.94081": {
       "name": "The Gurgling Ones",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Scos_FallenBrute_Refactor@-63.82668,146.15054": {
+    "events:Bounty_Assassinate_Tier1_Scos_FallenBrute_Refactor@-64.03332,145.15782": {
       "name": "Blood Clan Enforcer",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Scos_GhostCaster_Refactor@-56.49746,83.12617": {
+    "events:Bounty_Assassinate_Tier1_Scos_GhostCaster_Refactor@-56.04158,83.07747": {
       "name": "Restless Ancient",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Scos_GhostRanged_Refactor@-29.04937,111.80474": {
+    "events:Bounty_Assassinate_Tier1_Scos_GhostRanged_Refactor@-29.32517,110.7903": {
       "name": "Eternal Runescribe",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
@@ -2394,7 +2394,7 @@
       "name": "Eldhaime's Bane",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Scos_WerewolfMelee_Refactor@-51.78485,139.07861": {
+    "events:Bounty_Assassinate_Tier1_Scos_WerewolfMelee_Refactor@-51.44151,139.15747": {
       "name": "Alpha Bloodspawn",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
@@ -2402,7 +2402,7 @@
       "name": "Voracious Shadow",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Scos_Woodwraith_Refactor@-55.85946,77.46101": {
+    "events:Bounty_Assassinate_Tier1_Scos_Woodwraith_Refactor@-55.88093,78.06284": {
       "name": "Infested Oak",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
@@ -2410,15 +2410,15 @@
       "name": "The Bloodletter",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Scos_MaggotMelee_Refactor@-67.94907,129.27051": {
+    "events:Bounty_Assassinate_Tier1_Scos_MaggotMelee_Refactor@-69.33247,130.65391": {
       "name": "Ravenous Corpse-Eater",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Scos_SkeletonRanged_Refactor@-58.92187,95.49182": {
+    "events:Bounty_Assassinate_Tier1_Scos_SkeletonRanged_Refactor@-58.52085,95.4121": {
       "name": "Vindictive Sacrifice",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
-    "events:Bounty_Assassinate_Tier1_Scos_ZombieMelee_Refactor@-52.61181,117.95497": {
+    "events:Bounty_Assassinate_Tier1_Scos_ZombieMelee_Refactor@-52.96815,118.0816": {
       "name": "The Decomposer",
       "description": "One who violates their pact with the Tree of Whispers will always pay the inevitable price."
     },
